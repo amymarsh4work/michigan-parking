@@ -1,0 +1,82 @@
+<ion-header>
+    <ion-navbar>
+        <ion-title>{{campus}}</ion-title>
+    </ion-navbar>
+
+    <ion-toolbar no-border-top>
+        <ion-segment [(ngModel)]="findBySegment">
+            <ion-segment-button value="list" (ionSelect)="selectedMap(false)">
+                List
+            </ion-segment-button>
+            <ion-segment-button value="map" (ionSelect)="selectedMap(true)">
+                Map
+            </ion-segment-button>
+        </ion-segment>
+    </ion-toolbar>
+
+</ion-header>
+
+<ion-content>
+
+    <div #pleaseConnect id="please-connect">
+        <p>Please connect to the Internet...</p>
+    </div>
+
+    <!--<div padding>
+        <ion-segment [(ngModel)]="findBySegment">
+            <ion-segment-button value="list">
+                List
+            </ion-segment-button>
+            <ion-segment-button value="map">
+                Map
+            </ion-segment-button>
+        </ion-segment>
+    </div>-->
+
+    <!--<div [ngClass]="{hidden: toggleSegment('list')}">-->
+    <div [style.display]="campusMapOn ? 'none' : 'block'">
+        <ion-list>
+            <ion-list-header>
+                <a (click)="openFilter()">Filter</a>
+            </ion-list-header>
+            <ion-item *ngFor="let lot of campusLots" (click)="openDetails(lot.lot)">
+                <button item-left ion-button color="{{lot.type}}">&nbsp;&nbsp;&nbsp;</button>
+                <h2>{{lot.lot}}</h2>
+                <p>{{lot.distance}} miles</p>
+                <i class="icon ion-chevron-right"></i>
+            </ion-item>
+        </ion-list>
+    </div>
+
+    <div #map id="map"></div>
+    <!--<div #map id="map" [style.display]="mapOn ? 'block' : 'none'"></div>-->
+
+    <!--<div [ngClass]="{hidden: toggleSegment('map')}">should be a map here...
+        <div #map id="map"></div>
+    </div>-->
+
+    <!--<div #map id="map" [ngClass]="{hidden: toggleSegment('map')}"></div>-->
+
+
+
+    <!--<div #pleaseConnect id="please-connect">
+        <p>Please connect to the Internet...</p>
+    </div>
+
+    <ion-item-group [style.display]="campusMapOn ? 'none' : 'block'">
+        <ion-list>
+            <ion-list-header>
+                <a (click)="openFilter()">Filter</a>
+            </ion-list-header>
+            <ion-item *ngFor="let lot of campusLots" (click)="openDetails(lot.lot)">
+                <button item-left ion-button color="{{lot.type}}">&nbsp;&nbsp;&nbsp;</button>
+                <h2>{{lot.lot}}</h2>
+                <p>{{lot.distance}} miles</p>
+                <i class="icon ion-chevron-right"></i>
+            </ion-item>
+        </ion-list>
+    </ion-item-group>
+
+    <div #map id="map" [style.display]="campusMapOn ? 'block' : 'none'"></div>
+-->
+</ion-content>

@@ -1,0 +1,43 @@
+<ion-header>
+
+    <ion-navbar color="secondary">
+        <ion-title>List</ion-title>
+    </ion-navbar>
+
+</ion-header>
+
+<ion-content>
+
+    <!--<ion-list no-lines>
+        <ion-item>
+            <ion-avatar item-left>
+                <ion-icon name="pin"></ion-icon>
+            </ion-avatar>
+            <h2>Some Cool Place</h2>
+            <p>0.45 miles</p>
+        </ion-item>
+    </ion-list>-->
+
+    <ion-item-group [style.display]="mapOn ? 'none' : 'block'">
+        <ion-list-header>Nearby Parking Lots</ion-list-header>
+        <ion-item *ngFor="let lot of parking | slice:0:3" (click)="openDetails(lot.name)">
+            <button item-left ion-button color="primary">&nbsp;&nbsp;&nbsp;</button>
+            <h2>{{lot.name}}</h2>
+            <i class="icon ion-chevron-right"></i>
+        </ion-item>
+
+        <ion-item-divider color="light"></ion-item-divider>
+
+        <ion-item (click)="openBrowse()">Browse all U-M Parking Lots
+            <i class="icon ion-chevron-right"></i>
+        </ion-item>
+
+        <ion-item-divider color="light"></ion-item-divider>
+
+        <ion-item (click)="openSaved()">Saved Parking Lots
+            <i class="icon ion-chevron-right"></i>
+        </ion-item>
+    </ion-item-group>
+
+
+</ion-content>

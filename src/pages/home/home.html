@@ -1,0 +1,60 @@
+<ion-header>
+    <ion-navbar>
+        <ion-title>
+            Find
+        </ion-title>
+    </ion-navbar>
+
+    <ion-toolbar no-border-top>
+        <ion-segment [(ngModel)]="findBySegment">
+            <ion-segment-button value="list" (ionSelect)="selectedMap(false)">
+                List
+            </ion-segment-button>
+            <ion-segment-button value="map" (ionSelect)="selectedMap(true)">
+                Map
+            </ion-segment-button>
+        </ion-segment>
+    </ion-toolbar>
+</ion-header>
+
+<ion-content>
+    <div #pleaseConnect id="please-connect">
+        <p>Please connect to the Internet...</p>
+    </div>
+
+    <ion-item-group [style.display]="mapOn ? 'none' : 'block'">
+        <ion-list-header>Nearby Parking Lots</ion-list-header>
+        <!--<ion-item *ngFor="let lot of parking | slice:0:3" (click)="openDetails(lot.name)">
+            <button item-left ion-button color="primary">&nbsp;&nbsp;&nbsp;</button>
+            <h2>{{lot.name}}</h2>
+            <i class="icon ion-chevron-right"></i>
+        </ion-item>-->
+
+        <ion-list>
+            <ion-item *ngFor="let lot of parking | slice:0:4" (click)="openDetails(lot.lot)">
+                <button item-left ion-button color="{{lot.type}}">&nbsp;&nbsp;&nbsp;</button>
+                <!--ion-avatar item-left>
+                    <ion-icon name="pin" color="{{lot.type}}"></ion-icon>
+                </ion-avatar>-->
+                <h2>{{lot.lot}}</h2>
+                <p>{{lot.distance}} miles</p>
+                <i class="icon ion-chevron-right"></i>
+            </ion-item>
+        </ion-list>
+
+        <ion-item-divider color="light"></ion-item-divider>
+
+        <ion-item (click)="openBrowse()">Browse all U-M Parking Lots
+            <i class="icon ion-chevron-right"></i>
+        </ion-item>
+
+        <ion-item-divider color="light"></ion-item-divider>
+
+        <ion-item (click)="openSaved()">Saved Parking Lots
+            <i class="icon ion-chevron-right"></i>
+        </ion-item>
+    </ion-item-group>
+
+    <div #map id="map" [style.display]="mapOn ? 'block' : 'none'"></div>
+
+</ion-content>
