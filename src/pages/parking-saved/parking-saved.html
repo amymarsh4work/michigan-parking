@@ -12,13 +12,13 @@
 
 </ion-header>
 
-<ion-content>
+<ion-content style="background-color:#efeff4;">
     <ion-list>
         <ion-item-sliding>
-            <ion-item (click)="openDetails('1')">
-                <button item-left ion-button color="primary"></button>
-                <h2>NC10 north</h2>
-            </ion-item>
+            <button ion-item (click)="openDetails(lot.lot)">
+                <ion-icon name="car" item-left color="Blue"></ion-icon>
+                <h2>NC10</h2>
+            </button>
             <ion-item-options side="left">
                 <button ion-button color="danger">
                     <ion-icon name="minus"></ion-icon>

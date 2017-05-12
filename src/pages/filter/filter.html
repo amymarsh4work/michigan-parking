@@ -6,20 +6,26 @@
 -->
 <ion-header>
 
-  <ion-navbar>
+  <!--<ion-navbar>
     <ion-title>Filter</ion-title>
-  </ion-navbar>
+  </ion-navbar>-->
 
+  <ion-toolbar>
+    <ion-title>Filter</ion-title>
+    <ion-buttons end>
+      <button ion-button (click)="dismiss()">Done</button>
+    </ion-buttons>
+  </ion-toolbar>
 </ion-header>
 
-<ion-content>
-  <ion-list>
+<ion-content style="background-color:#efeff4;">
+  <ion-list radio-group>
     <ion-list-header>
       Parking Permit
     </ion-list-header>
     <ion-item>
       <ion-label>Blue</ion-label>
-      <ion-radio value="blue"></ion-radio>
+      <ion-radio checked="true" value="blue"></ion-radio>
     </ion-item>
     <ion-item>
       <ion-label>Yellow</ion-label>
@@ -35,19 +41,19 @@
     <ion-list-header>Parking Features</ion-list-header>
     <ion-item>
       <ion-label>Accessible</ion-label>
-      <ion-toggle value="accessible"></ion-toggle>
+      <ion-toggle color="secondary" checked="true" value="accessible"></ion-toggle>
     </ion-item>
     <ion-item>
-      <ion-label>Electric Vehicle Charging Station</ion-label>
-      <ion-toggle value="electric"></ion-toggle>
+      <ion-label>EV Charging Station</ion-label>
+      <ion-toggle color="secondary" checked="true" value="electric"></ion-toggle>
     </ion-item>
     <ion-item>
       <ion-label>Gate-Controlled</ion-label>
-      <ion-toggle value="gated"></ion-toggle>
+      <ion-toggle color="secondary" checked="true" value="gated"></ion-toggle>
     </ion-item>
     <ion-item>
       <ion-label>Motorcycle/Moped</ion-label>
-      <ion-toggle value="bikes"></ion-toggle>
+      <ion-toggle color="secondary" checked="true" value="bikes"></ion-toggle>
     </ion-item>
 
   </ion-list>
