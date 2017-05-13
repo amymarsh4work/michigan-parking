@@ -2,6 +2,6 @@
   "name": "michigan-parking",
   "app_id": "48661a59",
   "v2": true,
-  "typescript": true
+  "typescript": true,
   "type": "ionic-angular"
 }
