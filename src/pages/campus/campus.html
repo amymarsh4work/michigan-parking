@@ -1,8 +1,11 @@
 <ion-header>
     <ion-navbar>
         <ion-title>{{campus}} Campus</ion-title>
+        <ion-buttons end>
+          <button ion-button icon-only (click)="openFilter()"><ion-icon ios="ios-funnel-outline" md="md-funnel"></ion-icon></button>
+        </ion-buttons>
     </ion-navbar>
-    <ion-toolbar>
+        <ion-toolbar>
         <ion-segment [(ngModel)]="findBySegment">
             <ion-segment-button value="list" (ionSelect)="selectedMap(false)">
                 List
@@ -11,10 +14,11 @@
                 Map
             </ion-segment-button>
         </ion-segment>
-    </ion-toolbar>
+
+      </ion-toolbar>
 </ion-header>
 
-<ion-content style="background-color:#efeff4;">
+<ion-content>
 
     <div #pleaseConnect id="please-connect">
         <p>Please connect to the Internet...</p>
@@ -74,11 +78,3 @@
     <div #map id="map" [style.display]="campusMapOn ? 'block' : 'none'"></div>
 -->
 </ion-content>
-
-<ion-footer>
-  <ion-toolbar>
-    <ion-buttons start>
-      <button ion-button small (click)="openFilter()">Filter</button>
-    </ion-buttons>
-  </ion-toolbar>
-</ion-footer>
