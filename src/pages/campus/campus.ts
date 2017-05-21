@@ -1,11 +1,15 @@
 import { Component, ViewChild, ElementRef } from '@angular/core';
-import { IonicPage, NavController, NavParams, Platform } from 'ionic-angular';
+import { IonicPage, ModalController, NavController, NavParams, Platform } from 'ionic-angular';
 
 import { Filter } from '../filter/filter';
 import { ParkingDetails } from '../parking-details/parking-details';
 
 import { GoogleMaps } from '../../providers/google-maps';
 import { Locations } from '../../providers/locations';
+
+import { ModalPage } from '../filter';
+
+
 
 @IonicPage()
 @Component({
@@ -30,10 +34,12 @@ export class Campus {
               public navParams: NavParams,
               public platform: Platform,
               public mapService: GoogleMaps,
-              public locations: Locations) {
+              public locations: Locations,
+              public modalCtrl: ModalController) {
 
     this.campus = navParams.get('campus');
   }
+
 
   selectedMap(bool) {
     this.campusMapOn = bool;
@@ -75,7 +81,9 @@ export class Campus {
   }
 
   openFilter() {
-    this.navCtrl.push(Filter);
+    //this.navCtrl.push(Filter);
+    let modal = this.modalCtrl.create(Filter);
+    modal.present();
   }
 
   openDetails(lot) {

@@ -1,5 +1,6 @@
 import { Component, ViewChild, ElementRef } from '@angular/core';
 import { IonicPage, NavController, Platform, NavParams, ActionSheetController } from 'ionic-angular';
+import { AccessiblePage } from '../accessible/accessible';
 import { ParkingService } from '../../providers/parking.service';
 import { Parking } from '../../providers/parking.model';
 
@@ -34,6 +35,7 @@ export class ParkingDetails {
     this.lot = navParams.get('lot');
   }
 
+
   ionViewDidLoad() {
     console.log('ionViewDidLoad ParkingDetails for:', this.lot);
 
@@ -64,13 +66,11 @@ export class ParkingDetails {
       buttons: [
         {
           text: 'Apple Maps',
-          role: 'destructive',
           handler: () => {
             console.log('Apple clicked');
           }
         },{
           text: 'Google Maps',
-          role: 'destructive',
           handler: () => {
             console.log('Google clicked');
           }
@@ -86,4 +86,7 @@ export class ParkingDetails {
     actionSheet.present();
   }
 
+  openAccessible() {
+      this.navCtrl.push(AccessiblePage);
+  }
 }

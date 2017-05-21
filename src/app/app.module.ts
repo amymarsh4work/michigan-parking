@@ -28,6 +28,8 @@ import { ParkingService } from '../providers/parking.service';
 import { Locations } from '../providers/locations';
 import { GoogleMaps } from '../providers/google-maps';
 import { Connectivity } from '../providers/connectivity';
+import { AccessiblePage } from '../pages/accessible/accessible';
+import { AccessiblePageModule } from '../pages/accessible/accessible.module';
 
 
 const cloudSettings: CloudSettings = {
@@ -47,7 +49,8 @@ const cloudSettings: CloudSettings = {
       ParkingDetails,
       ParkingSaved,
       MapPage,
-      ListPage
+      ListPage,
+      AccessiblePage
   ],
   imports: [
     BrowserModule,
@@ -66,7 +69,8 @@ const cloudSettings: CloudSettings = {
       ParkingDetails,
       ParkingSaved,
       MapPage,
-      ListPage
+      ListPage,
+      AccessiblePage
   ],
   providers: [
     StatusBar,

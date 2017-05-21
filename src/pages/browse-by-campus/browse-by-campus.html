@@ -7,24 +7,24 @@
 <ion-header>
 
     <ion-navbar>
-        <ion-title>Campuses</ion-title>
+        <ion-title>Browse</ion-title>
     </ion-navbar>
 
 </ion-header>
 
 <ion-content>
     <ion-list>
-        <ion-item (click)="openCampus('North')">
-            North
-        </ion-item>
-        <ion-item (click)="openCampus('Medical')">
-            Medical
-        </ion-item>
-        <ion-item (click)="openCampus('Central')">
-            Central
-        </ion-item>
-        <ion-item (click)="openCampus('South')">
-            South (Athletic)
-        </ion-item>
+        <button ion-item (click)="openCampus('North')">
+            North Campus
+        </button>
+        <button ion-item (click)="openCampus('Medical')">
+            Medical Campus
+        </button>
+        <button ion-item (click)="openCampus('Central')">
+            Central Campus
+        </button>
+        <button ion-item (click)="openCampus('South')">
+            South Campus
+        </button>
     </ion-list>
 </ion-content>

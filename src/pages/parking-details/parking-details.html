@@ -10,22 +10,27 @@
     <p>Please connect to the Internet...</p>
   </div>
 
-  <div #map id="map"></div>
 
-  <ion-card>
+<div #map id="map"></div>
 
-    <ion-item>
-      <h2 item-left>{{lot}}</h2>
-      <ion-icon name="star" color="primary" item-right></ion-icon>
-    </ion-item>
+<ion-list>
+  <ion-item>
+  <h1>{{lot}}</h1>
+  <button ion-button icon-left clear item-right><ion-icon name="star-outline"></ion-icon> Save</button>
 
-    <ion-item>
-      <h2 item-left>{{lotDetail?.type}}</h2>
-    </ion-item>
+  <p>
+    <ion-icon name="car" color="{{lotDetail?.type}}"></ion-icon> {{lotDetail?.type}} &middot; {{lotDetail?.campus}} Campus
+  </p>
+  </ion-item>
 
-    <ion-item>
-      <button ion-button full color="primary" (click)="openMapActionSheet()">Directions</button>
-    </ion-item>
+  <ion-item>
+      2.6 mi
+      <button ion-button icon-left clear item-right (click)="openMapActionSheet()">
+        <ion-icon name="navigate"></ion-icon>
+        Directions
+      </button>
+  </ion-item>
+</ion-list>
 
     <ion-list>
       <ion-list-header> Enforcement Hours</ion-list-header>
@@ -38,23 +43,22 @@
     <ion-list>
       <ion-list-header>Parking Features</ion-list-header>
       <ion-item *ngIf="lotDetail?.accessible">
-        <ion-icon name="checkmark" item-left=""></ion-icon>
-        Accessible
+        <ion-icon name="checkmark" item-left></ion-icon> Accessible
+        <button ion-button icon-only clear item-right (click)="openAccessible()"><ion-icon name="ios-information-circle-outline"></ion-icon></button>
       </ion-item>
-      <ion-item *ngIf="lotDetail?.gate-controlled">
-        <ion-icon name="checkmark" item-left=""></ion-icon>
+      <ion-item *ngIf="lotDetail?.gate_controlled">
+        <ion-icon name="checkmark" item-left></ion-icon>
         Gate-Controlled
+        <p>Clearance: {{lotDetail?.clearance}}</p>
       </ion-item>
       <ion-item *ngIf="lotDetail?.ev_charging_station">
-        <ion-icon name="checkmark" item-left=""></ion-icon>
+        <ion-icon name="checkmark" item-left></ion-icon>
         Electric Car Charging Station
       </ion-item>
       <ion-item *ngIf="lotDetail?.motorcycle_moped">
-        <ion-icon name="checkmark" item-left=""></ion-icon>
-        Motorcycle\Moped
+        <ion-icon name="checkmark" item-left></ion-icon>
+        Motorcycle/Moped
       </ion-item>
     </ion-list>
-
-  </ion-card>
 
 </ion-content>
