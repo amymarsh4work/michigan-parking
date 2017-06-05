@@ -1,6 +1,5 @@
 import { Component, ViewChild, ElementRef } from '@angular/core';
 import { IonicPage, NavController, Platform, NavParams, ActionSheetController } from 'ionic-angular';
-import { AccessiblePage } from '../accessible/accessible';
 import { ParkingService } from '../../providers/parking.service';
 import { Parking } from '../../providers/parking.model';
 
@@ -87,6 +86,6 @@ export class ParkingDetails {
   }
 
   openAccessible() {
-      this.navCtrl.push(AccessiblePage);
+      this.navCtrl.push('AccessiblePage');
   }
 }
