@@ -1,9 +1,10 @@
 import { Component, ElementRef, ViewChild } from '@angular/core';
+import { IonicPage, NavController, Platform } from 'ionic-angular';
 import { Locations } from '../../providers/locations';
 import { GoogleMaps } from '../../providers/google-maps';
-import { NavController, Platform } from 'ionic-angular';
 import { Parking } from '../../providers/parking.model';
 
+@IonicPage()
 @Component({
   selector: 'page-map',
   templateUrl: 'map.html'

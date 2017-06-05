@@ -1,8 +1,7 @@
 import { Component } from '@angular/core';
 import { IonicPage, NavController, NavParams } from 'ionic-angular';
 
-import { Campus } from '../campus/campus';
-import { HomePage } from '../home/home';
+import { CampusPage } from '../campus/campus';
 
 
 @IonicPage()
@@ -12,7 +11,7 @@ import { HomePage } from '../home/home';
 })
 export class BrowseByCampus {
   public selectedCampus: string;
-  constructor(public navCtrl: NavController, public navParams: NavParams) {
+  constructor(public navCtrl: NavController) {
   }
 
   ionViewDidLoad() {
@@ -20,7 +19,7 @@ export class BrowseByCampus {
   }
 
   openCampus(campus) {
-    this.navCtrl.push(Campus, {'campus': campus});
+    this.navCtrl.push('CampusPage', {'campus': campus});
   }
 
 }

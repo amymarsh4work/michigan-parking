@@ -1,13 +1,14 @@
 import {Component, ElementRef, ViewChild} from "@angular/core";
-import {NavController, NavParams, Platform} from "ionic-angular";
-import {BrowseByCampus} from "../browse-by-campus/browse-by-campus";
+import {IonicPage, NavController, NavParams, Platform} from "ionic-angular";
+/*import {BrowseByCampus} from "../browse-by-campus/browse-by-campus";
 import {ParkingSaved} from "../parking-saved/parking-saved";
-import {ParkingDetails} from "../parking-details/parking-details";
+import {ParkingDetails} from "../parking-details/parking-details";*/
 import {ParkingService} from "../../providers/parking.service";
 import {Parking} from "../../providers/parking.model";
 import {Locations} from "../../providers/locations";
 import {GoogleMaps} from "../../providers/google-maps";
 
+@IonicPage()
 @Component({
     selector: 'page-home',
     templateUrl: 'home.html'
@@ -80,16 +81,15 @@ export class HomePage {
      }*/
 
     openDetails(lot) {
-        this.navCtrl.push(ParkingDetails, {lot: lot});
+        this.navCtrl.push('ParkingDetails', {lot: lot});
     }
 
     openBrowse() {
-        this.navCtrl.push(BrowseByCampus);
+        this.navCtrl.push('BrowseByCampus');
     }
 
     openSaved() {
-        this.navCtrl.push(ParkingSaved);
+        this.navCtrl.push('ParkingSaved');
     }
-
 
 }
