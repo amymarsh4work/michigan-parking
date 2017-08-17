@@ -1,0 +1,720 @@
+{
+  "Buildings": {
+    "Building": [
+      {
+        "ID": "1000918",
+        "Name": "RADRICK FARMS DRIVE RANGE SHELT",
+        "Abbreviation": "RFDRS",
+        "Campus": "Other"
+      },
+      {
+        "ID": "1000942",
+        "Name": "SHEEP RESEARCH FAC PORTAL VISTA",
+        "Abbreviation": "SRPRT",
+        "Campus": "Other"
+      },
+      {
+        "ID": "1000943",
+        "Name": "SHEEP RESEARCH FAC SQUARE DOME",
+        "Abbreviation": "SRSQD",
+        "Campus": "Other"
+      },
+      {
+        "ID": "1000944",
+        "Name": "SHEEP RESEARCH FAC EAST BARN",
+        "Abbreviation": "SREBN",
+        "Campus": "Other"
+      },
+      {
+        "ID": "1000946",
+        "Name": "SHEEP RESEARCH FACILITY P BARN 1",
+        "Abbreviation": "SRBN1",
+        "Campus": "Other"
+      },
+      {
+        "ID": "1000947",
+        "Name": "SHEEP RESEARCH FACILITY HAY BARN",
+        "Abbreviation": "SRHAY",
+        "Campus": "Other"
+      },
+      {
+        "ID": "1000950",
+        "Name": "RADRICK FARMS POOL HOUSE",
+        "Abbreviation": "RFPHS",
+        "Campus": "Other"
+      },
+      {
+        "ID": "1000953",
+        "Name": "RADRICK FARMS RECREATION FACILITY",
+        "Abbreviation": "RFREC",
+        "Campus": "Other"
+      },
+      {
+        "ID": "1000954",
+        "Name": "RADRICK FARMS PUMP HOUSE",
+        "Abbreviation": "RFPMP",
+        "Campus": "Other"
+      },
+      {
+        "ID": "1000955",
+        "Name": "RADRICK FARMS CARETAKERS HOUSE",
+        "Abbreviation": "RFCT",
+        "Campus": "Other"
+      },
+      {
+        "ID": "1000956",
+        "Name": "RADRICK FARMS SHED-GARAGE",
+        "Abbreviation": "RFSHD",
+        "Campus": "Other"
+      },
+      {
+        "ID": "1000957",
+        "Name": "RADRICK FARMS TACKROOM-BARN",
+        "Abbreviation": "RFTAK",
+        "Campus": "Other"
+      },
+      {
+        "ID": "1000958",
+        "Name": "RADRICK FARMS CHICKEN HOUSE",
+        "Abbreviation": "RFCHK",
+        "Campus": "Other"
+      },
+      {
+        "ID": "1000959",
+        "Name": "RADRICK FARMS CORNCRIB #1",
+        "Abbreviation": "RFCC1",
+        "Campus": "Other"
+      },
+      {
+        "ID": "1000960",
+        "Name": "RADRICK FARMS FOOD SERVICE BLDG",
+        "Abbreviation": "RFFOD",
+        "Campus": "Other"
+      },
+      {
+        "ID": "1000962",
+        "Name": "RADRICK FARMS FIRE BARN",
+        "Abbreviation": "RFFRB",
+        "Campus": "Other"
+      },
+      {
+        "ID": "1000963",
+        "Name": "RADRICK FARMS GOLF CLUBHOUSE",
+        "Abbreviation": "RFGCH",
+        "Campus": "Other"
+      },
+      {
+        "ID": "1000970",
+        "Name": "RADRICK FARMS COMFORT STATION",
+        "Abbreviation": "RFCST",
+        "Campus": "Other"
+      },
+      {
+        "ID": "1000971",
+        "Name": "RADRICK FARMS GOLF STORAGE BLDG",
+        "Abbreviation": "RFGSB",
+        "Campus": "Other"
+      },
+      {
+        "ID": "1000972",
+        "Name": "RADRICK FARMS BARN #1",
+        "Abbreviation": "RFBN1",
+        "Campus": "Other"
+      },
+      {
+        "ID": "1000973",
+        "Name": "SHEEP RESEARCH FACILITY OLD BARN",
+        "Abbreviation": "SROLD",
+        "Campus": "Other"
+      },
+      {
+        "ID": "1000974",
+        "Name": "RADRICK FARMS GOLF CART BUILDING",
+        "Abbreviation": "RFGCT",
+        "Campus": "Other"
+      },
+      {
+        "ID": "1000976",
+        "Name": "MATT BOT GNDS HOUSE",
+        "Abbreviation": "BGGHS",
+        "Campus": "Other"
+      },
+      {
+        "ID": "1000978",
+        "Name": "MATTHAEI BOT GDNS NORTH BARN #2",
+        "Abbreviation": "BGBN2",
+        "Campus": "Other"
+      },
+      {
+        "ID": "1000979",
+        "Name": "MATTHAEI BOT GDNS NORTH BARN #1",
+        "Abbreviation": "BGBN1",
+        "Campus": "Other"
+      },
+      {
+        "ID": "1000980",
+        "Name": "MATTHAEI BOT GDNS STORAGE BLDG",
+        "Abbreviation": "BGSTG",
+        "Campus": "Other"
+      },
+      {
+        "ID": "1000981",
+        "Name": "MATTHAEI BOT GDNS UTILITY-BOILER",
+        "Abbreviation": "BGUTL",
+        "Campus": "Other"
+      },
+      {
+        "ID": "1000982",
+        "Name": "MATTHAEI BOT GDNS RESEARCH-ADMIN",
+        "Abbreviation": "BGRES",
+        "Campus": "Other"
+      },
+      {
+        "ID": "1000983",
+        "Name": "MATTHAEI BOT GDNS GREENHOUSE #1",
+        "Abbreviation": "BGGH1",
+        "Campus": "Other"
+      },
+      {
+        "ID": "1000984",
+        "Name": "MATTHAEI BOT GDNS GREENHOUSE #2",
+        "Abbreviation": "BGGH2",
+        "Campus": "Other"
+      },
+      {
+        "ID": "1000985",
+        "Name": "MATTHAEI BOT GDNS SUPT RESIDENCE",
+        "Abbreviation": "BGSRS",
+        "Campus": "Other"
+      },
+      {
+        "ID": "1000986",
+        "Name": "MATTHAEI BOT GDNS ENVIRONMENT",
+        "Abbreviation": "BG EN",
+        "Campus": "Other"
+      },
+      {
+        "ID": "1000987",
+        "Name": "MATTHAEI BOT GDNS SCREENHOUSE #1",
+        "Abbreviation": "BGSH",
+        "Campus": "Other"
+      },
+      {
+        "ID": "1000988",
+        "Name": "MATTHAEI BOT GDNS GREENHOUSE #3",
+        "Abbreviation": "BGGH3",
+        "Campus": "Other"
+      },
+      {
+        "ID": "1000989",
+        "Name": "MATTHAEI BOT GDNS GREENHOUSE #4",
+        "Abbreviation": "BGGH4",
+        "Campus": "Other"
+      },
+      {
+        "ID": "1000990",
+        "Name": "MATTHAEI BOT GDNS GREENHOUSE #5",
+        "Abbreviation": "BGGH5",
+        "Campus": "Other"
+      },
+      {
+        "ID": "1000991",
+        "Name": "MATTHAEI BOT GDNS EXHIB GRN HSE",
+        "Abbreviation": "BGEXH",
+        "Campus": "Other"
+      },
+      {
+        "ID": "1000992",
+        "Name": "MATTHAEI BOT GDNS REPTILE HSE",
+        "Abbreviation": "BGREP",
+        "Campus": "Other"
+      },
+      {
+        "ID": "1000994",
+        "Name": "MATTHAEI BOT GDNS INSTR SHELTER",
+        "Abbreviation": "BGINS",
+        "Campus": "Other"
+      },
+      {
+        "ID": "1000999",
+        "Name": "SEISMOGRAPH STATION",
+        "Abbreviation": "SEISM",
+        "Campus": "Other"
+      },
+      {
+        "ID": "1001450",
+        "Name": "MCGRAW HILL OBSERV BUILDING 1.3",
+        "Abbreviation": "MCH13",
+        "Campus": "Other"
+      },
+      {
+        "ID": "1001451",
+        "Name": "MCGRAW HILL OBSERV SERVICE BLDG",
+        "Abbreviation": "MCHSV",
+        "Campus": "Other"
+      },
+      {
+        "ID": "1001452",
+        "Name": "MCGRAW HILL OBSERV STORAGE BLDG",
+        "Abbreviation": "MCHST",
+        "Campus": "Other"
+      },
+      {
+        "ID": "1001453",
+        "Name": "MCGRAW HILL OBSERV BUILDING 2.4",
+        "Abbreviation": "MCH24",
+        "Campus": "Other"
+      },
+      {
+        "ID": "1001501",
+        "Name": "RACKHAM HORACE H EDUCATIONAL MEMORIAL",
+        "Abbreviation": "RCMED",
+        "Campus": "Other"
+      },
+      {
+        "ID": "1001505",
+        "Name": "86 ELIOT ST",
+        "Abbreviation": "86ELI",
+        "Campus": "Other"
+      },
+      {
+        "ID": "1001604",
+        "Name": "CMU TOWER",
+        "Abbreviation": "CMUTR",
+        "Campus": "Other"
+      },
+      {
+        "ID": "1003410",
+        "Name": "STINCHFIELD WOODS STORAGE BLD #1",
+        "Abbreviation": "SWST1",
+        "Campus": "Other"
+      },
+      {
+        "ID": "1003411",
+        "Name": "STINCHFIELD WOODS RESIDENCE",
+        "Abbreviation": "SWRES",
+        "Campus": "Other"
+      },
+      {
+        "ID": "1003412",
+        "Name": "STINCHFIELD WOODS MEETING BLDG",
+        "Abbreviation": "STWDS",
+        "Campus": "Other"
+      },
+      {
+        "ID": "1003413",
+        "Name": "STINCHFIELD WOODS STORAGE BLD #2",
+        "Abbreviation": "SWST2",
+        "Campus": "Other"
+      },
+      {
+        "ID": "1003414",
+        "Name": "RADIO BROADCASTING STATION",
+        "Abbreviation": "RDOST",
+        "Campus": "Other"
+      },
+      {
+        "ID": "1003416",
+        "Name": "RADIO BROADCASTING ST PUMP HOUSE",
+        "Abbreviation": "RADPM",
+        "Campus": "Other"
+      },
+      {
+        "ID": "1003420",
+        "Name": "PORTAGE LK OBSERV 28 FT R T BUILDING",
+        "Abbreviation": "PL28",
+        "Campus": "Other"
+      },
+      {
+        "ID": "1003421",
+        "Name": "PORTAGE LK OBSERV RECEIVER BUILDING",
+        "Abbreviation": "PLREC",
+        "Campus": "Other"
+      },
+      {
+        "ID": "1003423",
+        "Name": "PORTAGE LK OBSERV 85 FT R T BUILDING",
+        "Abbreviation": "PL85",
+        "Campus": "Other"
+      },
+      {
+        "ID": "1003424",
+        "Name": "PORTAGE LK TOOL STG TRAILR",
+        "Abbreviation": "PLSTG",
+        "Campus": "Other"
+      },
+      {
+        "ID": "1003425",
+        "Name": "PORTAGE LK OBSERV 24 IN O T BUILDING",
+        "Abbreviation": "PL24",
+        "Campus": "Other"
+      },
+      {
+        "ID": "1003426",
+        "Name": "PORTAGE LK OBSERV STORAGE WORKSHOP",
+        "Abbreviation": "PLWKS",
+        "Campus": "Other"
+      },
+      {
+        "ID": "1003501",
+        "Name": "BASE LINE LAKE FARM HOUSE",
+        "Abbreviation": "BLHSE",
+        "Campus": "Other"
+      },
+      {
+        "ID": "1003502",
+        "Name": "BASE LINE LAKE FARM GARAGE SHOP #1",
+        "Abbreviation": "BLGR1",
+        "Campus": "Other"
+      },
+      {
+        "ID": "1003511",
+        "Name": "BASE LINE LAKE FARM STORAGE SHOP",
+        "Abbreviation": "BLSSH",
+        "Campus": "Other"
+      },
+      {
+        "ID": "1003546",
+        "Name": "ATH DEPT CREW BOATHOUSE FACILITY",
+        "Abbreviation": "ACBH",
+        "Campus": "Other"
+      },
+      {
+        "ID": "1005006",
+        "Name": "WORKPLACE INTEGRATORS",
+        "Abbreviation": "WPI",
+        "Campus": "Other"
+      },
+      {
+        "ID": "1005027",
+        "Name": "UM DEVELOPMENT NEW YORK",
+        "Abbreviation": "DEVNY",
+        "Campus": "Other"
+      },
+      {
+        "ID": "1005048",
+        "Name": "RADRICK FARMS STORAGE",
+        "Abbreviation": "RFSTR",
+        "Campus": "Other"
+      },
+      {
+        "ID": "1005054",
+        "Name": "ROSE MOVING STORAGE - DETROIT",
+        "Abbreviation": "ROSDT",
+        "Campus": "Other"
+      },
+      {
+        "ID": "1005067",
+        "Name": "ROSE MOVING STORAGE - TAYLOR",
+        "Abbreviation": "ROSTL",
+        "Campus": "Other"
+      },
+      {
+        "ID": "1005088",
+        "Name": "ROSE MOVING STORAGE - DEARBORN",
+        "Abbreviation": "ROSDB",
+        "Campus": "Other"
+      },
+      {
+        "ID": "1005090",
+        "Name": "MODULAR AOSS NEWCOMB TRACT FACILITY",
+        "Abbreviation": "MODNW",
+        "Campus": "Other"
+      },
+      {
+        "ID": "1005094",
+        "Name": "PROJECT DYNAMICS INC.",
+        "Abbreviation": "PDI",
+        "Campus": "Other"
+      },
+      {
+        "ID": "1005115",
+        "Name": "CORONA SOUTH BUILDING",
+        "Abbreviation": "CRNAS",
+        "Campus": "Other"
+      },
+      {
+        "ID": "1005133",
+        "Name": "GOVERNMENT RELATIONS - LANSING",
+        "Abbreviation": "GR LN",
+        "Campus": "Other"
+      },
+      {
+        "ID": "1005134",
+        "Name": "AMERICAN INTERIORS",
+        "Abbreviation": "AINTR",
+        "Campus": "Other"
+      },
+      {
+        "ID": "1005135",
+        "Name": "OFFICE SYSTEMS INSTALLATION GROUP",
+        "Abbreviation": "OSIG",
+        "Campus": "Other"
+      },
+      {
+        "ID": "1005144",
+        "Name": "KRUGER INTERNATIONAL AGI DIVISION",
+        "Abbreviation": "KRUGR",
+        "Campus": "Other"
+      },
+      {
+        "ID": "1005145",
+        "Name": "INTEGRATED INTERIORS",
+        "Abbreviation": "INTGI",
+        "Campus": "Other"
+      },
+      {
+        "ID": "1005147",
+        "Name": "WATERS BUILDING",
+        "Abbreviation": "WTRSB",
+        "Campus": "Other"
+      },
+      {
+        "ID": "1005151",
+        "Name": "FULBARI",
+        "Abbreviation": "FULBR",
+        "Campus": "Other"
+      },
+      {
+        "ID": "1005154",
+        "Name": "UM ISR 5N444 HARVEST LANE",
+        "Abbreviation": "5N444",
+        "Campus": "Other"
+      },
+      {
+        "ID": "1005157",
+        "Name": "SCHOOL OF SOCIAL WORK MIDTOWN",
+        "Abbreviation": "SSWMT",
+        "Campus": "Other"
+      },
+      {
+        "ID": "1005158",
+        "Name": "SCHOOL OF SOCIAL WORK SOUTHWEST",
+        "Abbreviation": "SSWSW",
+        "Campus": "Other"
+      },
+      {
+        "ID": "1005162",
+        "Name": "NORTH WESTERN COLLEGE",
+        "Abbreviation": "NWC",
+        "Campus": "Other"
+      },
+      {
+        "ID": "1005163",
+        "Name": "UM ISR 960 WOODSIDE TERRACE",
+        "Abbreviation": "960WO",
+        "Campus": "Other"
+      },
+      {
+        "ID": "1005167",
+        "Name": "SCHOOL OF DENTISTRY HOME OFFICE",
+        "Abbreviation": "DNTHM",
+        "Campus": "Other"
+      },
+      {
+        "ID": "1005172",
+        "Name": "UM ISR 335 BISMARK STREET",
+        "Abbreviation": "335BI",
+        "Campus": "Other"
+      },
+      {
+        "ID": "1005174",
+        "Name": "ONE FORD PLACE",
+        "Abbreviation": "1FORD",
+        "Campus": "Other"
+      },
+      {
+        "ID": "1005176",
+        "Name": "UM ISR 62070 MOUND ROAD",
+        "Abbreviation": "62070",
+        "Campus": "Other"
+      },
+      {
+        "ID": "1005178",
+        "Name": "UM ISR 1 EAGLE HARBOR TRAIL",
+        "Abbreviation": "1EAGL",
+        "Campus": "Other"
+      },
+      {
+        "ID": "1005180",
+        "Name": "PALMER MOVING STORAGE - TAYLOR",
+        "Abbreviation": "PALTY",
+        "Campus": "Other"
+      },
+      {
+        "ID": "1005187",
+        "Name": "PALMER MOVING STORAGE - WARREN",
+        "Abbreviation": "PALWN",
+        "Campus": "Other"
+      },
+      {
+        "ID": "1005189",
+        "Name": "WVGR TRANSMITTER BUILDING",
+        "Abbreviation": "WVGRT",
+        "Campus": "Other"
+      },
+      {
+        "ID": "1005192",
+        "Name": "ORCHESTRA PLACE",
+        "Abbreviation": "ORCH",
+        "Campus": "Other"
+      },
+      {
+        "ID": "1005196",
+        "Name": "THE PARKWAY GROUP",
+        "Abbreviation": "PKWGP",
+        "Campus": "Other"
+      },
+      {
+        "ID": "1005198",
+        "Name": "MICHIGAN STATE UNIVERSITY",
+        "Abbreviation": "MSU",
+        "Campus": "Other"
+      },
+      {
+        "ID": "1005204",
+        "Name": "LAKE ORION WINDOW TREATMENTS",
+        "Abbreviation": "LKORW",
+        "Campus": "Other"
+      },
+      {
+        "ID": "1005206",
+        "Name": "ROSE MOVING & STORAGE - BELLEVILLE",
+        "Abbreviation": "RSEBL",
+        "Campus": "Other"
+      },
+      {
+        "ID": "1005217",
+        "Name": "NMC UNIVERSITY CENTER",
+        "Abbreviation": "NMCUC",
+        "Campus": "Other"
+      },
+      {
+        "ID": "1005218",
+        "Name": "MICHIGAN SOLAR HOUSE",
+        "Abbreviation": "MISOL",
+        "Campus": "Other"
+      },
+      {
+        "ID": "1005220",
+        "Name": "1608 RHODE ISLAND AVENUE",
+        "Abbreviation": "1608R",
+        "Campus": "Other"
+      },
+      {
+        "ID": "1005225",
+        "Name": "UM ISR 425 EAST END AVENUE",
+        "Abbreviation": "425EN",
+        "Campus": "Other"
+      },
+      {
+        "ID": "1005234",
+        "Name": "SIMONS FOUNDATION",
+        "Abbreviation": "SIMNS",
+        "Campus": "Other"
+      },
+      {
+        "ID": "1005237",
+        "Name": "SAILING CLUB BUILDING",
+        "Abbreviation": "SAILC",
+        "Campus": "Other"
+      },
+      {
+        "ID": "1005252",
+        "Name": "SPARROW PROFESSIONAL BUILDING",
+        "Abbreviation": "SPARW",
+        "Campus": "Other"
+      },
+      {
+        "ID": "1005322",
+        "Name": "UNIVERSITY MOVING AND STORAGE",
+        "Abbreviation": "",
+        "Campus": "Other"
+      },
+      {
+        "ID": "1005330",
+        "Name": "601 N SAGINAW",
+        "Abbreviation": "601NS",
+        "Campus": "Other"
+      },
+      {
+        "ID": "1005331",
+        "Name": "RADRICK FARMS COMFORT STATION #2",
+        "Abbreviation": "RFCS2",
+        "Campus": "Other"
+      },
+      {
+        "ID": "1005376",
+        "Name": "6 W MICHIGAN AVE",
+        "Abbreviation": "6WMI",
+        "Campus": "Other"
+      },
+      {
+        "ID": "1005382",
+        "Name": "WOODWARD GARDENS",
+        "Abbreviation": "WDWDG",
+        "Campus": "Other"
+      },
+      {
+        "ID": "1005392",
+        "Name": "WOODWARD GARDENS PARKING STRUCTURE",
+        "Abbreviation": "WGPS",
+        "Campus": "Other"
+      },
+      {
+        "ID": "1005405",
+        "Name": "SHEEP RESEARCH FAC TRACTOR SHED",
+        "Abbreviation": "SRTS",
+        "Campus": "Other"
+      },
+      {
+        "ID": "1005406",
+        "Name": "SHEEP RESEARCH FAC HOOP BARN",
+        "Abbreviation": "ISRHB",
+        "Campus": "Other"
+      },
+      {
+        "ID": "1005409",
+        "Name": "105 E MAIN STREET",
+        "Abbreviation": "105EM",
+        "Campus": "Other"
+      },
+      {
+        "ID": "1005414",
+        "Name": "CASS CORRIDOR COMMONS",
+        "Abbreviation": "CASS",
+        "Campus": "Other"
+      },
+      {
+        "ID": "1005416",
+        "Name": "ENTERPRISE CENTER 1",
+        "Abbreviation": "",
+        "Campus": "Other"
+      },
+      {
+        "ID": "1005417",
+        "Name": "REGIONAL ALLIANCE FOR HEALTHY SCHOOLS CENTERS",
+        "Abbreviation": "RAHS0",
+        "Campus": "Other"
+      },
+      {
+        "ID": "1008047",
+        "Name": "GOVERNMENT RELATIONS - WASHINGTON DC",
+        "Abbreviation": "GR DC",
+        "Campus": "Other"
+      },
+      {
+        "ID": "1008095",
+        "Name": "NEW CENTER ONE",
+        "Abbreviation": "NC1",
+        "Campus": "Other"
+      },
+      {
+        "ID": "1008600",
+        "Name": "TELCOM MICROWAVE BLDG",
+        "Abbreviation": "TLMIC",
+        "Campus": "Other"
+      }
+    ]
+  }
+}

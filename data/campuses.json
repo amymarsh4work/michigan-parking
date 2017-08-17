@@ -1,0 +1,70 @@
+{
+  "Campuses": {
+    "Campus": [
+      {
+        "CampusCd": "100",
+        "CampusDescr": "Central Campus"
+      },
+      {
+        "CampusCd": "150",
+        "CampusDescr": "Ann Arbor Non-Campus"
+      },
+      {
+        "CampusCd": "200",
+        "CampusDescr": "East Campus"
+      },
+      {
+        "CampusCd": "300",
+        "CampusDescr": "Medical Campus"
+      },
+      {
+        "CampusCd": "310",
+        "CampusDescr": "Medical Campus UMH"
+      },
+      {
+        "CampusCd": "400",
+        "CampusDescr": "South Campus"
+      },
+      {
+        "CampusCd": "410",
+        "CampusDescr": "Stephen M Ross Athletic Campus"
+      },
+      {
+        "CampusCd": "500",
+        "CampusDescr": "North Campus"
+      },
+      {
+        "CampusCd": "520",
+        "CampusDescr": "North Campus Research"
+      },
+      {
+        "CampusCd": "700",
+        "CampusDescr": "UM-Flint"
+      },
+      {
+        "CampusCd": "710",
+        "CampusDescr": "UM-Dearborn"
+      },
+      {
+        "CampusCd": "720",
+        "CampusDescr": "Willow Run"
+      },
+      {
+        "CampusCd": "740",
+        "CampusDescr": "Summer Camps"
+      },
+      {
+        "CampusCd": "760",
+        "CampusDescr": "CDC Outlying Clinics"
+      },
+      {
+        "CampusCd": "780",
+        "CampusDescr": "Briarwood Campus"
+      },
+      {
+        "CampusCd": "900",
+        "CampusDescr": "Other"
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "Buildings": {
+    "Building": [
+      {
+        "ID": "1001004",
+        "Name": "DEARBORN FAIR LANE COTTAGE NORTH 2",
+        "Abbreviation": "FLCN",
+        "Campus": "UM-Dearborn"
+      },
+      {
+        "ID": "1001005",
+        "Name": "DEARBORN FAIR LANE COTTAGE EAST 3",
+        "Abbreviation": "FLCE",
+        "Campus": "UM-Dearborn"
+      },
+      {
+        "ID": "1001006",
+        "Name": "DEARBORN FAIR LANE COTTAGE SOUTH 1",
+        "Abbreviation": "FLCS",
+        "Campus": "UM-Dearborn"
+      },
+      {
+        "ID": "1001008",
+        "Name": "DEARBORN FAIR LANE PONY BARN",
+        "Abbreviation": "FLPB",
+        "Campus": "UM-Dearborn"
+      },
+      {
+        "ID": "1001009",
+        "Name": "DEARBORN SCIENCE BUILDING",
+        "Abbreviation": "SB",
+        "Campus": "UM-Dearborn"
+      },
+      {
+        "ID": "1001011",
+        "Name": "DEARBORN COMPUTER INFORMATION SCIENCE",
+        "Abbreviation": "CIS",
+        "Campus": "UM-Dearborn"
+      },
+      {
+        "ID": "1001012",
+        "Name": "DEARBORN ADMINISTRATION BLDG",
+        "Abbreviation": "AB",
+        "Campus": "UM-Dearborn"
+      },
+      {
+        "ID": "1001013",
+        "Name": "DEARBORN ENGINEERING LAB BLDG",
+        "Abbreviation": "ELB",
+        "Campus": "UM-Dearborn"
+      },
+      {
+        "ID": "1001014",
+        "Name": "DEARBORN FUEL MIXING BUILDING",
+        "Abbreviation": "FMB",
+        "Campus": "UM-Dearborn"
+      },
+      {
+        "ID": "1001015",
+        "Name": "SCIENCE FACULTY CENTER",
+        "Abbreviation": "SFC",
+        "Campus": "UM-Dearborn"
+      },
+      {
+        "ID": "1001016",
+        "Name": "DEARBORN MONTEITH PARKING STRUCTURE",
+        "Abbreviation": "MPS",
+        "Campus": "UM-Dearborn"
+      },
+      {
+        "ID": "1001017",
+        "Name": "DEARBORN FIELDHOUSE AND WELLNESS CENTER",
+        "Abbreviation": "FHWC",
+        "Campus": "UM-Dearborn"
+      },
+      {
+        "ID": "1001018",
+        "Name": "DEARBORN REC AND ORGANIZATION CTR",
+        "Abbreviation": "ROC",
+        "Campus": "UM-Dearborn"
+      },
+      {
+        "ID": "1001019",
+        "Name": "DEARBORN CHANCELLORS RESIDENCE",
+        "Abbreviation": "CHRES",
+        "Campus": "UM-Dearborn"
+      },
+      {
+        "ID": "1001020",
+        "Name": "DEARBORN CASL ANNEX",
+        "Abbreviation": "CA",
+        "Campus": "UM-Dearborn"
+      },
+      {
+        "ID": "1001047",
+        "Name": "AUXILIARY PROGRAM CENTER",
+        "Abbreviation": "APC",
+        "Campus": "UM-Dearborn"
+      },
+      {
+        "ID": "1001060",
+        "Name": "DEARBORN UNIVERSITY CENTER",
+        "Abbreviation": "UC",
+        "Campus": "UM-Dearborn"
+      },
+      {
+        "ID": "1001065",
+        "Name": "DEARBORN MARDIGIAN LIBRARY",
+        "Abbreviation": "ML",
+        "Campus": "UM-Dearborn"
+      },
+      {
+        "ID": "1001070",
+        "Name": "DEARBORN MFG SYSTEMS ENGIN LAB",
+        "Abbreviation": "MSEL",
+        "Campus": "UM-Dearborn"
+      },
+      {
+        "ID": "1001073",
+        "Name": "DEARBORN GROUNDS BUILDING",
+        "Abbreviation": "GB",
+        "Campus": "UM-Dearborn"
+      },
+      {
+        "ID": "1001074",
+        "Name": "DEARBORN CAMPUS SUPPORT SERVICES",
+        "Abbreviation": "CSS",
+        "Campus": "UM-Dearborn"
+      },
+      {
+        "ID": "1001075",
+        "Name": "DEARBORN PRECHTER H C ENGINEERING COMPLEX",
+        "Abbreviation": "HPEC",
+        "Campus": "UM-Dearborn"
+      },
+      {
+        "ID": "1001076",
+        "Name": "DEARBORN ENVIRONMENTAL INTERPRETIVE CENTER",
+        "Abbreviation": "EIC",
+        "Campus": "UM-Dearborn"
+      },
+      {
+        "ID": "1001077",
+        "Name": "DEARBORN SOCIAL SCIENCES BUILDING",
+        "Abbreviation": "SSB",
+        "Campus": "UM-Dearborn"
+      },
+      {
+        "ID": "1001078",
+        "Name": "DEARBORN PROFESSIONAL EDUCATION CENTER",
+        "Abbreviation": "PEC",
+        "Campus": "UM-Dearborn"
+      },
+      {
+        "ID": "1001079",
+        "Name": "DEARBORN SB COMPUTING WING",
+        "Abbreviation": "CW",
+        "Campus": "UM-Dearborn"
+      },
+      {
+        "ID": "1001080",
+        "Name": "DEARBORN COLLEGE OF ARTS SCIENCE LETTERS",
+        "Abbreviation": "CASL",
+        "Campus": "UM-Dearborn"
+      },
+      {
+        "ID": "1005128",
+        "Name": "DEARBORN FAIRLANE CENTER",
+        "Abbreviation": "FC",
+        "Campus": "UM-Dearborn"
+      },
+      {
+        "ID": "1005137",
+        "Name": "DEARBORN INSTITUTE FOR ADVANCED VEHICLE SYSTEMS",
+        "Abbreviation": "IAVS",
+        "Campus": "UM-Dearborn"
+      },
+      {
+        "ID": "1005138",
+        "Name": "DEARBORN SCIENCE LEARNING RESEARCH CTR",
+        "Abbreviation": "SLRC",
+        "Campus": "UM-Dearborn"
+      },
+      {
+        "ID": "1005244",
+        "Name": "DEARBORN CHILD DEVELOPMENT CENTER",
+        "Abbreviation": "CDC",
+        "Campus": "UM-Dearborn"
+      },
+      {
+        "ID": "1005362",
+        "Name": "780 TOWN CENTER DR",
+        "Abbreviation": "780TC",
+        "Campus": "UM-Dearborn"
+      },
+      {
+        "ID": "1005420",
+        "Name": "MODULAR RESEARCH LABORATORY",
+        "Abbreviation": "MRL",
+        "Campus": "UM-Dearborn"
+      }
+    ]
+  }
+}
+Response Code

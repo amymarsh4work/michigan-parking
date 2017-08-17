@@ -1,0 +1,252 @@
+{
+  "Buildings": {
+    "Building": [
+      {
+        "ID": "1000301",
+        "Name": "CANCER CENTER",
+        "Abbreviation": "CC",
+        "Campus": "Medical Campus UMH"
+      },
+      {
+        "ID": "1000306",
+        "Name": "EAST HOSPITAL MECHANICAL BLDG",
+        "Abbreviation": "EHMCH",
+        "Campus": "Medical Campus UMH"
+      },
+      {
+        "ID": "1000308",
+        "Name": "MED-INN",
+        "Abbreviation": "MEDIN",
+        "Campus": "Medical Campus UMH"
+      },
+      {
+        "ID": "1000309",
+        "Name": "UNIVERSITY HOSPITAL SOUTH UNIT 1",
+        "Abbreviation": "UHSU1",
+        "Campus": "Medical Campus UMH"
+      },
+      {
+        "ID": "1000312",
+        "Name": "UNIVERSITY HOSPITAL SOUTH UNIT 2",
+        "Abbreviation": "UHSU2",
+        "Campus": "Medical Campus UMH"
+      },
+      {
+        "ID": "1000314",
+        "Name": "UNIVERSITY HOSPITAL SOUTH UNIT 3",
+        "Abbreviation": "UHSU3",
+        "Campus": "Medical Campus UMH"
+      },
+      {
+        "ID": "1000316",
+        "Name": "UNIVERSITY HOSPITALS",
+        "Abbreviation": "UHOSP",
+        "Campus": "Medical Campus UMH"
+      },
+      {
+        "ID": "1000317",
+        "Name": "TAUBMAN A ALFRED HEALTH CARE CTR",
+        "Abbreviation": "TAUBC",
+        "Campus": "Medical Campus UMH"
+      },
+      {
+        "ID": "1000318",
+        "Name": "UNIVERSITY HOSPITAL SOUTH UNIT 4",
+        "Abbreviation": "UHSU4",
+        "Campus": "Medical Campus UMH"
+      },
+      {
+        "ID": "1000319",
+        "Name": "MEDICAL PROFESSIONAL BUILDING",
+        "Abbreviation": "MPB",
+        "Campus": "Medical Campus UMH"
+      },
+      {
+        "ID": "1000327",
+        "Name": "1018 FULLER BUILDING",
+        "Abbreviation": "FILLR",
+        "Campus": "Medical Campus UMH"
+      },
+      {
+        "ID": "1000332",
+        "Name": "300 N INGALLS BUILDING",
+        "Abbreviation": "300NI",
+        "Campus": "Medical Campus UMH"
+      },
+      {
+        "ID": "1000348",
+        "Name": "CHELSEA FAMILY PRACTICE",
+        "Abbreviation": "CH FP",
+        "Campus": "Medical Campus UMH"
+      },
+      {
+        "ID": "1000350",
+        "Name": "EAST ANN ARBOR HEALTH AND GERIATRICS CENTER",
+        "Abbreviation": "EAAHC",
+        "Campus": "Medical Campus UMH"
+      },
+      {
+        "ID": "1000390",
+        "Name": "UNIV HOSPITALS CHILD CARE CENTER",
+        "Abbreviation": "UHCCC",
+        "Campus": "Medical Campus UMH"
+      },
+      {
+        "ID": "1000399",
+        "Name": "NORTH CAMPUS ADMINISTRATIVE COMPLEX",
+        "Abbreviation": "NCAC",
+        "Campus": "Medical Campus UMH"
+      },
+      {
+        "ID": "1000419",
+        "Name": "LAUNDRY",
+        "Abbreviation": "LAUND",
+        "Campus": "Medical Campus UMH"
+      },
+      {
+        "ID": "1005012",
+        "Name": "UNIVERSITY HOSPITALS HELIPAD",
+        "Abbreviation": "HELPD",
+        "Campus": "Medical Campus UMH"
+      },
+      {
+        "ID": "1005038",
+        "Name": "EAST ANN ARBOR AMBULATORY SURGICAL CENTER",
+        "Abbreviation": "AMBSC",
+        "Campus": "Medical Campus UMH"
+      },
+      {
+        "ID": "1005051",
+        "Name": "UMH MODULAR OFFICE A",
+        "Abbreviation": "MOD A",
+        "Campus": "Medical Campus UMH"
+      },
+      {
+        "ID": "1005102",
+        "Name": "BREHM TOWER",
+        "Abbreviation": "BREHM",
+        "Campus": "Medical Campus UMH"
+      },
+      {
+        "ID": "1005109",
+        "Name": "FRANKEL SAMUEL AND JEAN CARDIOVASCULAR CENTER",
+        "Abbreviation": "CVC",
+        "Campus": "Medical Campus UMH"
+      },
+      {
+        "ID": "1005117",
+        "Name": "UPJOHN RACHEL BUILDING",
+        "Abbreviation": "UPJHN",
+        "Campus": "Medical Campus UMH"
+      },
+      {
+        "ID": "1005173",
+        "Name": "MOTT CHILDRENS VON VOIGTLANDER WOMENS HOSPITALS",
+        "Abbreviation": "MOTVV",
+        "Campus": "Medical Campus UMH"
+      },
+      {
+        "ID": "1005202",
+        "Name": "MULTIPLE BUILDING PROJECTS",
+        "Abbreviation": "MBP",
+        "Campus": "Medical Campus UMH"
+      },
+      {
+        "ID": "1005203",
+        "Name": "SITE IMPROVEMENT PROJECTS",
+        "Abbreviation": "SITIP",
+        "Campus": "Medical Campus UMH"
+      },
+      {
+        "ID": "1005221",
+        "Name": "CONSTRUCTION TRAILER CHILDRENS AND WOMENS HOSPITAL",
+        "Abbreviation": "CTCWH",
+        "Campus": "Medical Campus UMH"
+      },
+      {
+        "ID": "1005223",
+        "Name": "NORTH CAMPUS AUXILIARY SUPPORT  BUILDING",
+        "Abbreviation": "NCASP",
+        "Campus": "Medical Campus UMH"
+      },
+      {
+        "ID": "1005367",
+        "Name": "MODULAR ACCELERATOR BUILDING",
+        "Abbreviation": "ACCEL",
+        "Campus": "Medical Campus UMH"
+      },
+      {
+        "ID": "1008016",
+        "Name": "BRIARWOOD 5",
+        "Abbreviation": "BWD5",
+        "Campus": "Medical Campus UMH"
+      },
+      {
+        "ID": "1008030",
+        "Name": "BRIARWOOD 2",
+        "Abbreviation": "BWD2",
+        "Campus": "Medical Campus UMH"
+      },
+      {
+        "ID": "1008042",
+        "Name": "BRIARWOOD 4",
+        "Abbreviation": "BWD4",
+        "Campus": "Medical Campus UMH"
+      },
+      {
+        "ID": "1008060",
+        "Name": "101 SIMPSON DRIVE",
+        "Abbreviation": "101SI",
+        "Campus": "Medical Campus UMH"
+      },
+      {
+        "ID": "1008065",
+        "Name": "BRIARWOOD 3",
+        "Abbreviation": "BWD3",
+        "Campus": "Medical Campus UMH"
+      },
+      {
+        "ID": "1008072",
+        "Name": "EISENHOWER CORPORATE PARK WEST",
+        "Abbreviation": "ECPW",
+        "Campus": "Medical Campus UMH"
+      },
+      {
+        "ID": "1008076",
+        "Name": "BRIARWOOD 1",
+        "Abbreviation": "BWD1",
+        "Campus": "Medical Campus UMH"
+      },
+      {
+        "ID": "1008079",
+        "Name": "ARBOR LAKES 1",
+        "Abbreviation": "AL1",
+        "Campus": "Medical Campus UMH"
+      },
+      {
+        "ID": "1008080",
+        "Name": "ARBOR LAKES 2",
+        "Abbreviation": "AL2",
+        "Campus": "Medical Campus UMH"
+      },
+      {
+        "ID": "1008081",
+        "Name": "ARBOR LAKES 3",
+        "Abbreviation": "AL3",
+        "Campus": "Medical Campus UMH"
+      },
+      {
+        "ID": "1008130",
+        "Name": "BRIARWOOD 10",
+        "Abbreviation": "BRWD9",
+        "Campus": "Medical Campus UMH"
+      },
+      {
+        "ID": "1008142",
+        "Name": "BRIARWOOD 9",
+        "Abbreviation": "BWD9",
+        "Campus": "Medical Campus UMH"
+      }
+    ]
+  }
+}
