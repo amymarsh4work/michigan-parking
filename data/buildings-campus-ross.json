@@ -1,0 +1,414 @@
+{
+  "Buildings": {
+    "Building": [
+      {
+        "ID": "1000201",
+        "Name": "HARTWIG MARIE DOROTHY ADMINISTRATION BUILDING",
+        "Abbreviation": "HARTW",
+        "Campus": "Stephen M Ross Athletic Campus"
+      },
+      {
+        "ID": "1000700",
+        "Name": "CRISLER CENTER",
+        "Abbreviation": "CRIS",
+        "Campus": "Stephen M Ross Athletic Campus"
+      },
+      {
+        "ID": "1000703",
+        "Name": "INDOOR TRACK BUILDING",
+        "Abbreviation": "T&TB",
+        "Campus": "Stephen M Ross Athletic Campus"
+      },
+      {
+        "ID": "1000704",
+        "Name": "OOSTERBAAN BENNIE FIELD HOUSE",
+        "Abbreviation": "BOFH",
+        "Campus": "Stephen M Ross Athletic Campus"
+      },
+      {
+        "ID": "1000705",
+        "Name": "SCHEMBECHLER GLENN E HALL",
+        "Abbreviation": "SCHEM",
+        "Campus": "Stephen M Ross Athletic Campus"
+      },
+      {
+        "ID": "1000706",
+        "Name": "FERRY FIELD PUMP HOUSE",
+        "Abbreviation": "FFPMP",
+        "Campus": "Stephen M Ross Athletic Campus"
+      },
+      {
+        "ID": "1000709",
+        "Name": "YOST ICE ARENA",
+        "Abbreviation": "YOST",
+        "Campus": "Stephen M Ross Athletic Campus"
+      },
+      {
+        "ID": "1000711",
+        "Name": "MICHIGAN STADIUM",
+        "Abbreviation": "STADM",
+        "Campus": "Stephen M Ross Athletic Campus"
+      },
+      {
+        "ID": "1000714",
+        "Name": "STADIUM PUMPING STATION",
+        "Abbreviation": "STPMP",
+        "Campus": "Stephen M Ross Athletic Campus"
+      },
+      {
+        "ID": "1000718",
+        "Name": "CANHAM DONALD B NATATORIUM",
+        "Abbreviation": "CANHM",
+        "Campus": "Stephen M Ross Athletic Campus"
+      },
+      {
+        "ID": "1000719",
+        "Name": "INTRAMURAL SPORTS BUILDING",
+        "Abbreviation": "IM",
+        "Campus": "Stephen M Ross Athletic Campus"
+      },
+      {
+        "ID": "1000731",
+        "Name": "WEIDENBACH JOHN P HALL",
+        "Abbreviation": "WEIDN",
+        "Campus": "Stephen M Ross Athletic Campus"
+      },
+      {
+        "ID": "1000732",
+        "Name": "KEEN CLIFFORD P ARENA",
+        "Abbreviation": "KEEN",
+        "Campus": "Stephen M Ross Athletic Campus"
+      },
+      {
+        "ID": "1000733",
+        "Name": "FISHER RAY BASEBALL STADIUM",
+        "Abbreviation": "FISHR",
+        "Campus": "Stephen M Ross Athletic Campus"
+      },
+      {
+        "ID": "1000738",
+        "Name": "TISCH PRESTON ROBERT TENNIS BLD",
+        "Abbreviation": "TENN",
+        "Campus": "Stephen M Ross Athletic Campus"
+      },
+      {
+        "ID": "1000739",
+        "Name": "GOLF COURSE PUMP HOUSE II",
+        "Abbreviation": "GCPH2",
+        "Campus": "Stephen M Ross Athletic Campus"
+      },
+      {
+        "ID": "1000741",
+        "Name": "GOLF COURSE GARAGE",
+        "Abbreviation": "GCGAR",
+        "Campus": "Stephen M Ross Athletic Campus"
+      },
+      {
+        "ID": "1000742",
+        "Name": "CAMPUS SAFETY SERVICES BUILDING",
+        "Abbreviation": "CSSB",
+        "Campus": "Stephen M Ross Athletic Campus"
+      },
+      {
+        "ID": "1000747",
+        "Name": "GOLF COURSE COMFORT STATION A",
+        "Abbreviation": "GCCSA",
+        "Campus": "Stephen M Ross Athletic Campus"
+      },
+      {
+        "ID": "1000748",
+        "Name": "GOLF COURSE COMFORT STATION B",
+        "Abbreviation": "GCCSB",
+        "Campus": "Stephen M Ross Athletic Campus"
+      },
+      {
+        "ID": "1000749",
+        "Name": "GOLF COURSE PRACTICE RANGE BLDG",
+        "Abbreviation": "GCPR",
+        "Campus": "Stephen M Ross Athletic Campus"
+      },
+      {
+        "ID": "1000800",
+        "Name": "FACILITIES SERVICES BUILDING A",
+        "Abbreviation": "FSB A",
+        "Campus": "Stephen M Ross Athletic Campus"
+      },
+      {
+        "ID": "1000801",
+        "Name": "FACILITIES SERVICES BUILDING B",
+        "Abbreviation": "FSB B",
+        "Campus": "Stephen M Ross Athletic Campus"
+      },
+      {
+        "ID": "1000802",
+        "Name": "FACILITIES SERVICES BUILDING C",
+        "Abbreviation": "FSB C",
+        "Campus": "Stephen M Ross Athletic Campus"
+      },
+      {
+        "ID": "1000803",
+        "Name": "ATHLETIC CAMPUS SWITCH STATION",
+        "Abbreviation": "ATHSS",
+        "Campus": "Stephen M Ross Athletic Campus"
+      },
+      {
+        "ID": "1000804",
+        "Name": "HOOVER ANNEX",
+        "Abbreviation": "HVRAN",
+        "Campus": "Stephen M Ross Athletic Campus"
+      },
+      {
+        "ID": "1000805",
+        "Name": "HOOVER AVE HEATING PLANT",
+        "Abbreviation": "HVRHP",
+        "Campus": "Stephen M Ross Athletic Campus"
+      },
+      {
+        "ID": "1000807",
+        "Name": "PHYSICAL PROPERTIES BUILDING",
+        "Abbreviation": "PHSPR",
+        "Campus": "Stephen M Ross Athletic Campus"
+      },
+      {
+        "ID": "1000808",
+        "Name": "TRANSPORTATION SERVICES BUILDING",
+        "Abbreviation": "TRNSV",
+        "Campus": "Stephen M Ross Athletic Campus"
+      },
+      {
+        "ID": "1000813",
+        "Name": "REVELLI WILLIAM D BAND REHEARSAL HALL",
+        "Abbreviation": "REVEL",
+        "Campus": "Stephen M Ross Athletic Campus"
+      },
+      {
+        "ID": "1000814",
+        "Name": "INSTITUTE OF CONTINUING LEGAL ED",
+        "Abbreviation": "ICLE",
+        "Campus": "Stephen M Ross Athletic Campus"
+      },
+      {
+        "ID": "1000815",
+        "Name": "ADMINISTRATIVE SERVICES",
+        "Abbreviation": "ADSRV",
+        "Campus": "Stephen M Ross Athletic Campus"
+      },
+      {
+        "ID": "1000816",
+        "Name": "1032 GREENE BUILDING",
+        "Abbreviation": "GRN",
+        "Campus": "Stephen M Ross Athletic Campus"
+      },
+      {
+        "ID": "1005077",
+        "Name": "SHEPHERD DONALD R WOMENS GYMNASTIC CENTER",
+        "Abbreviation": "SHPWG",
+        "Campus": "Stephen M Ross Athletic Campus"
+      },
+      {
+        "ID": "1005100",
+        "Name": "GOLF COURSE MAINTENANCE BUILDING",
+        "Abbreviation": "GCMNT",
+        "Campus": "Stephen M Ross Athletic Campus"
+      },
+      {
+        "ID": "1005120",
+        "Name": "ROSS STEPHEN M ACADEMIC CENTER",
+        "Abbreviation": "ROSS",
+        "Campus": "Stephen M Ross Athletic Campus"
+      },
+      {
+        "ID": "1005121",
+        "Name": "GLICK AL FIELD HOUSE",
+        "Abbreviation": "GLICK",
+        "Campus": "Stephen M Ross Athletic Campus"
+      },
+      {
+        "ID": "1005123",
+        "Name": "ALUMNI FIELD",
+        "Abbreviation": "SFTBL",
+        "Campus": "Stephen M Ross Athletic Campus"
+      },
+      {
+        "ID": "1005125",
+        "Name": "MODULAR ATHLETICS MAINTENANCE",
+        "Abbreviation": "MODAT",
+        "Campus": "Stephen M Ross Athletic Campus"
+      },
+      {
+        "ID": "1005160",
+        "Name": "JUNGE FAMILY CHAMPIONS CENTER",
+        "Abbreviation": "JUNGE",
+        "Campus": "Stephen M Ross Athletic Campus"
+      },
+      {
+        "ID": "1005195",
+        "Name": "ATHLETICS MAINTENANCE BUILDING",
+        "Abbreviation": "ATHMN",
+        "Campus": "Stephen M Ross Athletic Campus"
+      },
+      {
+        "ID": "1005236",
+        "Name": "BAHNA WRESTLING  CENTER",
+        "Abbreviation": "WRESL",
+        "Campus": "Stephen M Ross Athletic Campus"
+      },
+      {
+        "ID": "1005242",
+        "Name": "MICHIGAN STADIUM NORTH PLAZA BUILDING A",
+        "Abbreviation": "STPBA",
+        "Campus": "Stephen M Ross Athletic Campus"
+      },
+      {
+        "ID": "1005243",
+        "Name": "MICHIGAN STADIUM NORTH PLAZA BUILDING B",
+        "Abbreviation": "STPBB",
+        "Campus": "Stephen M Ross Athletic Campus"
+      },
+      {
+        "ID": "1005247",
+        "Name": "INTERCOLLEGIATE SOCCER STADIUM",
+        "Abbreviation": "ICST",
+        "Campus": "Stephen M Ross Athletic Campus"
+      },
+      {
+        "ID": "1005289",
+        "Name": "DAVIDSON WILLIAM PLAYER DEVELOPMENT CENTER",
+        "Abbreviation": "PLAYC",
+        "Campus": "Stephen M Ross Athletic Campus"
+      },
+      {
+        "ID": "1005319",
+        "Name": "WEISFELD FAMILY GOLF CENTER",
+        "Abbreviation": "WGOLF",
+        "Campus": "Stephen M Ross Athletic Campus"
+      },
+      {
+        "ID": "1005337",
+        "Name": "TEMPORARY LACROSSE TRAILER",
+        "Abbreviation": "LACRS",
+        "Campus": "Stephen M Ross Athletic Campus"
+      },
+      {
+        "ID": "1005349",
+        "Name": "SHEPHERD DONALD R SOFTBALL CENTER",
+        "Abbreviation": "SFTBL",
+        "Campus": "Stephen M Ross Athletic Campus"
+      },
+      {
+        "ID": "1005357",
+        "Name": "FIELD HOCKEY TEAM CENTER",
+        "Abbreviation": "FHTC",
+        "Campus": "Stephen M Ross Athletic Campus"
+      },
+      {
+        "ID": "1005358",
+        "Name": "FIELD HOCKEY STADIUM",
+        "Abbreviation": "FHSTD",
+        "Campus": "Stephen M Ross Athletic Campus"
+      },
+      {
+        "ID": "1005359",
+        "Name": "FIELD HOCKEY TICKET OFFICE",
+        "Abbreviation": "FHTKT",
+        "Campus": "Stephen M Ross Athletic Campus"
+      },
+      {
+        "ID": "1005371",
+        "Name": "ATHLETIC DEPARTMENT OPERATIONS CENTER",
+        "Abbreviation": "ADOC",
+        "Campus": "Stephen M Ross Athletic Campus"
+      },
+      {
+        "ID": "1005385",
+        "Name": "POSTMA RICHARD L FAMILY CLUBHOUSE",
+        "Abbreviation": "PFCH",
+        "Campus": "Stephen M Ross Athletic Campus"
+      },
+      {
+        "ID": "1005387",
+        "Name": "FIELD HOCKEY TICKET OFFICE WEST",
+        "Abbreviation": "FHTKW",
+        "Campus": "Stephen M Ross Athletic Campus"
+      },
+      {
+        "ID": "1005395",
+        "Name": "LACROSSE STADIUM",
+        "Abbreviation": "LCST",
+        "Campus": "Stephen M Ross Athletic Campus"
+      },
+      {
+        "ID": "1005396",
+        "Name": "LACROSSE TICKET BUILDING",
+        "Abbreviation": "LCTK",
+        "Campus": "Stephen M Ross Athletic Campus"
+      },
+      {
+        "ID": "1005397",
+        "Name": "OUTDOOR TRACK STADIUM",
+        "Abbreviation": "ODST",
+        "Campus": "Stephen M Ross Athletic Campus"
+      },
+      {
+        "ID": "1005398",
+        "Name": "INDOOR TRACK BUILDING",
+        "Abbreviation": "IDTB",
+        "Campus": "Stephen M Ross Athletic Campus"
+      },
+      {
+        "ID": "1005399",
+        "Name": "SPORTS PERFORMANCE CENTER",
+        "Abbreviation": "SPCTR",
+        "Campus": "Stephen M Ross Athletic Campus"
+      },
+      {
+        "ID": "1005400",
+        "Name": "OUTDOOR TRACK AUXILIARY BUILDING",
+        "Abbreviation": "OTAB",
+        "Campus": "Stephen M Ross Athletic Campus"
+      },
+      {
+        "ID": "1005401",
+        "Name": "SOCCER TICKET BUILDING",
+        "Abbreviation": "STKT",
+        "Campus": "Stephen M Ross Athletic Campus"
+      },
+      {
+        "ID": "1005402",
+        "Name": "ATHLETICS SOUTH FACILITY SUPPORT BUILDING",
+        "Abbreviation": "ASFSB",
+        "Campus": "Stephen M Ross Athletic Campus"
+      },
+      {
+        "ID": "1005407",
+        "Name": "TEMPORARY ROWING TRAILER",
+        "Abbreviation": "ROWNG",
+        "Campus": "Stephen M Ross Athletic Campus"
+      },
+      {
+        "ID": "1005408",
+        "Name": "TEMPORARY SOCCER TRAILER",
+        "Abbreviation": "TSOCC",
+        "Campus": "Stephen M Ross Athletic Campus"
+      },
+      {
+        "ID": "1008050",
+        "Name": "PLANT STORAGE BUILDING #1",
+        "Abbreviation": "PSB1",
+        "Campus": "Stephen M Ross Athletic Campus"
+      },
+      {
+        "ID": "1008051",
+        "Name": "PLANT STORAGE BUILDING #2",
+        "Abbreviation": "PSB2",
+        "Campus": "Stephen M Ross Athletic Campus"
+      },
+      {
+        "ID": "1008052",
+        "Name": "PLANT STORAGE BUILDING #3",
+        "Abbreviation": "PSB3",
+        "Campus": "Stephen M Ross Athletic Campus"
+      }
+    ]
+  }
+}

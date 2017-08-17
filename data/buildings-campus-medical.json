@@ -1,0 +1,222 @@
+{
+  "Buildings": {
+    "Building": [
+      {
+        "ID": "1000060",
+        "Name": "MARKLEY MARY BUTLER HALL",
+        "Abbreviation": "MMARK",
+        "Campus": "Medical Campus"
+      },
+      {
+        "ID": "1000065",
+        "Name": "VAUGHAN VICTOR C HOUSE",
+        "Abbreviation": "VVAUN",
+        "Campus": "Medical Campus"
+      },
+      {
+        "ID": "1000100",
+        "Name": "MOLECULAR & BEHAVIORAL NEUROSCIENCE INSTITUTE",
+        "Abbreviation": "MHRI",
+        "Campus": "Medical Campus"
+      },
+      {
+        "ID": "1000168",
+        "Name": "ANIMAL RESEARCH FACILITY",
+        "Abbreviation": "ARF",
+        "Campus": "Medical Campus"
+      },
+      {
+        "ID": "1000190",
+        "Name": "MEDICAL SCIENCE UNIT I",
+        "Abbreviation": "MSC1",
+        "Campus": "Medical Campus"
+      },
+      {
+        "ID": "1000200",
+        "Name": "MEDICAL SCIENCE UNIT II",
+        "Abbreviation": "MSC2",
+        "Campus": "Medical Campus"
+      },
+      {
+        "ID": "1000204",
+        "Name": "VAUGHAN HENRY FRIEZE PUBLIC HEALTH BUILDING",
+        "Abbreviation": "SPH1",
+        "Campus": "Medical Campus"
+      },
+      {
+        "ID": "1000209",
+        "Name": "TAUBMAN A ALFRED HEALTH SCIENCES LIBRARY",
+        "Abbreviation": "TAUBL",
+        "Campus": "Medical Campus"
+      },
+      {
+        "ID": "1000210",
+        "Name": "BUHL LAWRENCE D RESEARCH CEN FOR HUMAN GENETICS",
+        "Abbreviation": "BUHL",
+        "Campus": "Medical Campus"
+      },
+      {
+        "ID": "1000212",
+        "Name": "SIMPSON THOMAS H MEMORIAL INST MEDICAL RESEARCH",
+        "Abbreviation": "SIMP",
+        "Campus": "Medical Campus"
+      },
+      {
+        "ID": "1000213",
+        "Name": "MEDICAL SCIENCES RESEARCH BLDG II",
+        "Abbreviation": "MSRB2",
+        "Campus": "Medical Campus"
+      },
+      {
+        "ID": "1000223",
+        "Name": "MEDICAL SCIENCES RESEARCH BLDG I",
+        "Abbreviation": "MSRB1",
+        "Campus": "Medical Campus"
+      },
+      {
+        "ID": "1000229",
+        "Name": "MEDICAL SCIENCES RESEARCH BLDG III",
+        "Abbreviation": "MSRB3",
+        "Campus": "Medical Campus"
+      },
+      {
+        "ID": "1000234",
+        "Name": "FRANCIS THOMAS JR PUBLIC HEALTH",
+        "Abbreviation": "SPH2",
+        "Campus": "Medical Campus"
+      },
+      {
+        "ID": "1000258",
+        "Name": "CATHERINE ST PARKING STRUCTURE",
+        "Abbreviation": "CA PK",
+        "Campus": "Medical Campus"
+      },
+      {
+        "ID": "1000268",
+        "Name": "SALT STORAGE BUILDING",
+        "Abbreviation": "SLTST",
+        "Campus": "Medical Campus"
+      },
+      {
+        "ID": "1000269",
+        "Name": "EQUIPMENT MAINTENANCE SHOP",
+        "Abbreviation": "EQUIP",
+        "Campus": "Medical Campus"
+      },
+      {
+        "ID": "1000300",
+        "Name": "MED CTR N ENTRANCE PARKING STRUCTURE",
+        "Abbreviation": "MCNPK",
+        "Campus": "Medical Campus"
+      },
+      {
+        "ID": "1000313",
+        "Name": "TOWSLEY CENTER FOR CONTINUING MEDICAL EDUCATION",
+        "Abbreviation": "TOWSL",
+        "Campus": "Medical Campus"
+      },
+      {
+        "ID": "1000315",
+        "Name": "MEDICAL CENTER DR PARKING STRUCT",
+        "Abbreviation": "MC PK",
+        "Campus": "Medical Campus"
+      },
+      {
+        "ID": "1000320",
+        "Name": "SIMPSON CIRCLE PARKING STRUCTURE",
+        "Abbreviation": "SIMPK",
+        "Campus": "Medical Campus"
+      },
+      {
+        "ID": "1000323",
+        "Name": "MEDICAL CAMPUS SWITCH STATION SE",
+        "Abbreviation": "MCSWT",
+        "Campus": "Medical Campus"
+      },
+      {
+        "ID": "1000324",
+        "Name": "KELLOGG W K EYE CENTER",
+        "Abbreviation": "KEC",
+        "Campus": "Medical Campus"
+      },
+      {
+        "ID": "1000331",
+        "Name": "GLEN AVE PARKING STRUCTURE",
+        "Abbreviation": "GL PK",
+        "Campus": "Medical Campus"
+      },
+      {
+        "ID": "1000333",
+        "Name": "400 NORTH INGALLS BUILDING",
+        "Abbreviation": "400NI",
+        "Campus": "Medical Campus"
+      },
+      {
+        "ID": "1000335",
+        "Name": "300 400 N INGALLS BOILER HSE",
+        "Abbreviation": "NIBBL",
+        "Campus": "Medical Campus"
+      },
+      {
+        "ID": "1000340",
+        "Name": "RONALD MCDONALD HOUSE",
+        "Abbreviation": "R MCD",
+        "Campus": "Medical Campus"
+      },
+      {
+        "ID": "1000851",
+        "Name": "KINESIOLOGY BUILDING",
+        "Abbreviation": "OBL",
+        "Campus": "Medical Campus"
+      },
+      {
+        "ID": "1005037",
+        "Name": "TAUBMAN A ALFRED BIOMEDICAL SCIENCE RESEARCH BLDG",
+        "Abbreviation": "BSRB",
+        "Campus": "Medical Campus"
+      },
+      {
+        "ID": "1005126",
+        "Name": "CENTRAL CAMPUS AND UM HOSPITAL LOAD CENTER",
+        "Abbreviation": "CCHLC",
+        "Campus": "Medical Campus"
+      },
+      {
+        "ID": "1005132",
+        "Name": "ANN STREET PARKING STRUCTURE",
+        "Abbreviation": "ANNPK",
+        "Campus": "Medical Campus"
+      },
+      {
+        "ID": "1005146",
+        "Name": "CARDIOVASCULAR CENTER PARKING STRUCTURE",
+        "Abbreviation": "CVCPK",
+        "Campus": "Medical Campus"
+      },
+      {
+        "ID": "1005193",
+        "Name": "WALL STREET EAST PARKING STRUCTURE",
+        "Abbreviation": "WSEPK",
+        "Campus": "Medical Campus"
+      },
+      {
+        "ID": "1005200",
+        "Name": "1009 CORNWELL PLACE",
+        "Abbreviation": "1009C",
+        "Campus": "Medical Campus"
+      },
+      {
+        "ID": "1005347",
+        "Name": "SCHOOL OF NURSING NEW BUILDING",
+        "Abbreviation": "SNNEW",
+        "Campus": "Medical Campus"
+      },
+      {
+        "ID": "1008039",
+        "Name": "1011 CORNWELL PLACE",
+        "Abbreviation": "1011C",
+        "Campus": "Medical Campus"
+      }
+    ]
+  }
+}
