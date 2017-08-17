@@ -1,0 +1,2046 @@
+{
+  "Buildings": {
+    "Building": [
+      {
+        "ID": "1000220",
+        "Name": "NC GROUNDS STORAGE BUILDING # 1",
+        "Abbreviation": "NCGS",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000394",
+        "Name": "LURIE ANN AND ROBERT H TOWER",
+        "Abbreviation": "LT",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000395",
+        "Name": "BAGNOUD FRANCOIS-XAVIER BUILDING",
+        "Abbreviation": "FXB",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000396",
+        "Name": "DUDERSTADT JAMES AND ANNE CENTER",
+        "Abbreviation": "DC",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000397",
+        "Name": "LURIE ROBERT H ENGINEERING CTR",
+        "Abbreviation": "LEC",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000400",
+        "Name": "LAY WALTER E AUTOMOTIVE ENGINEERING LABORATORY",
+        "Abbreviation": "AL",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000402",
+        "Name": "BONISTEEL INTERDISCIPLINARY RESEARCH BUILDING",
+        "Abbreviation": "BIRB",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000403",
+        "Name": "COOLEY MORTIMER E BUILDING",
+        "Abbreviation": "COOL",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000404",
+        "Name": "MICHIGAN MEMORIAL PHOENIX PROJECT LABORATORY",
+        "Abbreviation": "PHNX",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000405",
+        "Name": "NUCLEAR ENGINEERING LABORATORIES",
+        "Abbreviation": "NEL",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000406",
+        "Name": "LURIE ANN AND ROBERT H BIOMEDICAL ENGINEERING BLD",
+        "Abbreviation": "LBME",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000407",
+        "Name": "BROWN GEORGE GRANGER MEMORIAL LABORATORIES",
+        "Abbreviation": "GGBL",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000408",
+        "Name": "NORTH CAMPUS SWITCH STATION",
+        "Abbreviation": "NC SS",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000409",
+        "Name": "FIRE SERV INSTR RES CENTER",
+        "Abbreviation": "FIRES",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000414",
+        "Name": "ENVIRONMENTAL AND WATER RESOURCES ENGINEERING BL",
+        "Abbreviation": "EWRE",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000415",
+        "Name": "NAVAL ARCHITECTURE AND MARINE ENGINEERING",
+        "Abbreviation": "NAME",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000416",
+        "Name": "RADIATION SCIENCES LABORATORY 1",
+        "Abbreviation": "RAD 1",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000417",
+        "Name": "RADIATION SCIENCES LABORATORY 2",
+        "Abbreviation": "RAD 2",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000418",
+        "Name": "NORTH CAMPUS SERVICE BLDG #1",
+        "Abbreviation": "NC SV",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000420",
+        "Name": "SCHOOL OF INFORMATION NORTH",
+        "Abbreviation": "SINFN",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000421",
+        "Name": "AEROSPACE ENGINEERING LAB WIND TUNNEL LAB",
+        "Abbreviation": "AETU",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000422",
+        "Name": "AEROSPACE ENGINEERING LAB PROPULSION LAB",
+        "Abbreviation": "AEPR",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000423",
+        "Name": "AERO ENG LAB PUMPING STATION",
+        "Abbreviation": "AELPS",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000424",
+        "Name": "GORGUZE FAMILY LABORATORY",
+        "Abbreviation": "GFLAB",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000425",
+        "Name": "AEROSPACE ENGINEERING LAB PLASMA RESEARCH",
+        "Abbreviation": "AEP",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000426",
+        "Name": "AERO ENG POWER PLANT",
+        "Abbreviation": "AEPP",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000427",
+        "Name": "NORTH CAMPUS RECREATION BUILDING",
+        "Abbreviation": "NCRB",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000429",
+        "Name": "INDUSTRIAL AND OPERATIONS ENGINEERING BUILDING",
+        "Abbreviation": "IOE",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000430",
+        "Name": "NORTH CAMPUS STORAGE BUILDING",
+        "Abbreviation": "NCSB",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000432",
+        "Name": "ART ARCHITECTURE BUILDING",
+        "Abbreviation": "A&AB",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000434",
+        "Name": "IST GAS STORAGE BUILDING",
+        "Abbreviation": "ISTGS",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000435",
+        "Name": "ENGINEERING RESEARCH BUILDING 1",
+        "Abbreviation": "ISTCO",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000436",
+        "Name": "ENGINEERING RESEARCH BUILDING 2",
+        "Abbreviation": "ISTLW",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000437",
+        "Name": "GERSTACKER CARL A BUILDING",
+        "Abbreviation": "GERST",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000439",
+        "Name": "BENTLEY ALVIN M & ARVELLA D HISTORICAL LIBRARY",
+        "Abbreviation": "BHLIB",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000440",
+        "Name": "MOORE EARL V BLDG",
+        "Abbreviation": "SM",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000441",
+        "Name": "SPACE RESEARCH LABORATORY",
+        "Abbreviation": "SRB",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000442",
+        "Name": "PIERPONT WILBUR K COMMONS",
+        "Abbreviation": "PIER",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000443",
+        "Name": "CHRYSLER CENTER CONTINUING ENGINEERING EDUCATION",
+        "Abbreviation": "CHRYS",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000444",
+        "Name": "U-M TRANSPORTATION RESEARCH INST",
+        "Abbreviation": "UMTRI",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000445",
+        "Name": "STEARNS FREDERICK BUILDING",
+        "Abbreviation": "STRNS",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000446",
+        "Name": "FORD GERALD R LIBRARY",
+        "Abbreviation": "FORDL",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000447",
+        "Name": "DOW HERBERT H BUILDING",
+        "Abbreviation": "DOW",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000448",
+        "Name": "ELECTRICAL ENGINEERING AND COMPUTER SCIENCE BLD",
+        "Abbreviation": "EECS",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000449",
+        "Name": "NORTH CAMPUS HOUSING SERVICE BLD",
+        "Abbreviation": "NCHSG",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000450",
+        "Name": "NORTHWOOD I SVC BUILDING 450",
+        "Abbreviation": "NW450",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000451",
+        "Name": "NORTHWOOD I APTS 451",
+        "Abbreviation": "NW451",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000452",
+        "Name": "NORTHWOOD I APTS 452",
+        "Abbreviation": "NW452",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000453",
+        "Name": "NORTHWOOD I APTS 453",
+        "Abbreviation": "NW453",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000454",
+        "Name": "NORTHWOOD I APTS 454",
+        "Abbreviation": "NW454",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000455",
+        "Name": "NORTHWOOD I APTS 455",
+        "Abbreviation": "NW455",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000456",
+        "Name": "NORTHWOOD I APTS 456",
+        "Abbreviation": "NW456",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000457",
+        "Name": "NORTHWOOD II SVC BUILDING 457",
+        "Abbreviation": "NW457",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000458",
+        "Name": "NORTHWOOD II SVC BUILDING 458",
+        "Abbreviation": "NW458",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000459",
+        "Name": "NORTHWOOD II SVC BUILDING 459",
+        "Abbreviation": "NW459",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000460",
+        "Name": "NORTHWOOD II SVC BUILDING 460",
+        "Abbreviation": "NW460",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000461",
+        "Name": "NORTHWOOD II SVC BUILDING 461",
+        "Abbreviation": "NW461",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000462",
+        "Name": "NORTHWOOD II APTS 462",
+        "Abbreviation": "NW462",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000464",
+        "Name": "NORTHWOOD II APTS 464",
+        "Abbreviation": "NW464",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000465",
+        "Name": "NORTHWOOD II APTS 465",
+        "Abbreviation": "NW465",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000466",
+        "Name": "NORTHWOOD II APTS 466",
+        "Abbreviation": "NW466",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000467",
+        "Name": "NORTHWOOD II APTS 467",
+        "Abbreviation": "NW467",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000468",
+        "Name": "NORTHWOOD II APTS 468",
+        "Abbreviation": "NW468",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000469",
+        "Name": "NORTHWOOD II APTS 469",
+        "Abbreviation": "NW2 A",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000470",
+        "Name": "NORTHWOOD II APTS 470",
+        "Abbreviation": "NW470",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000471",
+        "Name": "NORTHWOOD II APTS 471",
+        "Abbreviation": "NW471",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000472",
+        "Name": "NORTHWOOD II APTS 472",
+        "Abbreviation": "NW472",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000473",
+        "Name": "NORTHWOOD II APTS 473",
+        "Abbreviation": "NW473",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000474",
+        "Name": "NORTHWOOD II APTS 474",
+        "Abbreviation": "NW474",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000475",
+        "Name": "NORTHWOOD II APTS 475",
+        "Abbreviation": "NW475",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000476",
+        "Name": "NORTHWOOD II APTS 476",
+        "Abbreviation": "NW476",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000477",
+        "Name": "NORTHWOOD II APTS 477",
+        "Abbreviation": "NW477",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000478",
+        "Name": "NORTHWOOD II APTS 478",
+        "Abbreviation": "NW478",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000479",
+        "Name": "NORTHWOOD II APTS 479",
+        "Abbreviation": "NW479",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000480",
+        "Name": "NORTHWOOD II APTS 480",
+        "Abbreviation": "NW480",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000481",
+        "Name": "NORTHWOOD II APTS 481",
+        "Abbreviation": "NW481",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000482",
+        "Name": "NORTHWOOD II APTS 482",
+        "Abbreviation": "NW482",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000483",
+        "Name": "NORTHWOOD II APTS 483",
+        "Abbreviation": "NW483",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000484",
+        "Name": "NORTHWOOD II APTS 484",
+        "Abbreviation": "NW484",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000485",
+        "Name": "NORTHWOOD II APTS 485",
+        "Abbreviation": "NW485",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000486",
+        "Name": "NORTHWOOD II APTS 486",
+        "Abbreviation": "NW486",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000487",
+        "Name": "NORTHWOOD II APTS 487",
+        "Abbreviation": "NW487",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000488",
+        "Name": "NORTHWOOD II APTS 488",
+        "Abbreviation": "NW488",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000489",
+        "Name": "NORTHWOOD II APTS 489",
+        "Abbreviation": "NW489",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000490",
+        "Name": "NORTHWOOD II APTS 490",
+        "Abbreviation": "NW490",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000491",
+        "Name": "NORTHWOOD II APTS 491",
+        "Abbreviation": "NW491",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000492",
+        "Name": "NORTHWOOD II APTS 492",
+        "Abbreviation": "NW492",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000493",
+        "Name": "NORTHWOOD II APTS 493",
+        "Abbreviation": "NW493",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000494",
+        "Name": "NORTHWOOD II APTS 494",
+        "Abbreviation": "NW494",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000495",
+        "Name": "NORTHWOOD II APTS 495",
+        "Abbreviation": "NW495",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000496",
+        "Name": "NORTHWOOD II APTS 496",
+        "Abbreviation": "NW496",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000497",
+        "Name": "NORTHWOOD II APTS 497",
+        "Abbreviation": "NW497",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000498",
+        "Name": "CRAM PLACE COMMUNITY CENTER",
+        "Abbreviation": "NW498",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000499",
+        "Name": "NORTHWOOD III SVC BUILDING 499",
+        "Abbreviation": "NW499",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000500",
+        "Name": "NORTHWOOD III SVC BUILDING 500",
+        "Abbreviation": "NW500",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000501",
+        "Name": "NORTHWOOD III APTS 501",
+        "Abbreviation": "NW501",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000502",
+        "Name": "NORTHWOOD III APTS 502",
+        "Abbreviation": "NW502",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000503",
+        "Name": "NORTHWOOD III APTS 503",
+        "Abbreviation": "NW503",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000504",
+        "Name": "NORTHWOOD III APTS 504",
+        "Abbreviation": "NW504",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000505",
+        "Name": "NORTHWOOD III APTS 505",
+        "Abbreviation": "NW505",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000506",
+        "Name": "NORTHWOOD III APTS 506",
+        "Abbreviation": "NW506",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000507",
+        "Name": "NORTHWOOD III APTS 507",
+        "Abbreviation": "NW507",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000508",
+        "Name": "NORTHWOOD III APTS 508",
+        "Abbreviation": "NW508",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000510",
+        "Name": "BAITS VERA I EATON HOUSE",
+        "Abbreviation": "VBEAT",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000511",
+        "Name": "BAITS VERA I LEE HOUSE",
+        "Abbreviation": "VBLEE",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000512",
+        "Name": "BAITS VERA I PARKER HOUSE",
+        "Abbreviation": "VBPRK",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000513",
+        "Name": "BAITS VERA I SMITH HOUSE",
+        "Abbreviation": "VBSMT",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000514",
+        "Name": "BAITS VERA I STANLEY HOUSE",
+        "Abbreviation": "VBSTN",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000515",
+        "Name": "BAITS VERA II COMAN HOUSE",
+        "Abbreviation": "VBCMN",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000516",
+        "Name": "BAITS VERA II CONGER HOUSE",
+        "Abbreviation": "VBCON",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000517",
+        "Name": "BAITS VERA II CROSS HOUSE",
+        "Abbreviation": "VBCRS",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000518",
+        "Name": "BAITS VERA II THIEME HOUSE",
+        "Abbreviation": "VBTHM",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000519",
+        "Name": "BAITS VERA II ZIWET HOUSE",
+        "Abbreviation": "VBZWT",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000555",
+        "Name": "BURSLEY JOSEPH A & MARGUERITE K HALL",
+        "Abbreviation": "BURS",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000600",
+        "Name": "NORTHWOOD COMMUNITY CENTER",
+        "Abbreviation": "FAMIL",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000601",
+        "Name": "NORTHWOOD IV APTS 601",
+        "Abbreviation": "NW601",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000602",
+        "Name": "NORTHWOOD IV APTS 602",
+        "Abbreviation": "NW602",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000603",
+        "Name": "NORTHWOOD IV APTS 603",
+        "Abbreviation": "NW603",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000604",
+        "Name": "NORTHWOOD IV APTS 604",
+        "Abbreviation": "NW604",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000605",
+        "Name": "NORTHWOOD IV APTS 605",
+        "Abbreviation": "NW605",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000606",
+        "Name": "NORTHWOOD IV APTS 606",
+        "Abbreviation": "NW606",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000607",
+        "Name": "NORTHWOOD IV APTS 607",
+        "Abbreviation": "NW607",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000608",
+        "Name": "NORTHWOOD IV APTS 608",
+        "Abbreviation": "NW608",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000609",
+        "Name": "NORTHWOOD IV APTS 609",
+        "Abbreviation": "NW609",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000610",
+        "Name": "NORTHWOOD IV APTS 610",
+        "Abbreviation": "NW610",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000611",
+        "Name": "NORTHWOOD IV APTS 611",
+        "Abbreviation": "NW611",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000612",
+        "Name": "NORTHWOOD IV APTS 612",
+        "Abbreviation": "NW612",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000613",
+        "Name": "NORTHWOOD IV APTS 613",
+        "Abbreviation": "NW613",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000614",
+        "Name": "NORTHWOOD IV APTS 614",
+        "Abbreviation": "NW614",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000615",
+        "Name": "NORTHWOOD IV APTS 615",
+        "Abbreviation": "NW615",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000616",
+        "Name": "NORTHWOOD IV APTS 616",
+        "Abbreviation": "NW616",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000617",
+        "Name": "NORTHWOOD IV APTS 617",
+        "Abbreviation": "NW617",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000618",
+        "Name": "NORTHWOOD IV APTS 618",
+        "Abbreviation": "NW618",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000619",
+        "Name": "NORTHWOOD IV APTS 619",
+        "Abbreviation": "NW619",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000620",
+        "Name": "NORTHWOOD IV APTS 620",
+        "Abbreviation": "NW620",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000621",
+        "Name": "NORTHWOOD IV APTS 621",
+        "Abbreviation": "NW621",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000622",
+        "Name": "NORTHWOOD IV APTS 622",
+        "Abbreviation": "NW622",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000623",
+        "Name": "NORTHWOOD IV APTS 623",
+        "Abbreviation": "NW623",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000624",
+        "Name": "NORTHWOOD IV APTS 624",
+        "Abbreviation": "NW624",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000625",
+        "Name": "NORTHWOOD IV APTS 625",
+        "Abbreviation": "NW625",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000626",
+        "Name": "NORTHWOOD IV APTS 626",
+        "Abbreviation": "NW626",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000627",
+        "Name": "NORTHWOOD IV APTS 627",
+        "Abbreviation": "NW627",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000628",
+        "Name": "NORTHWOOD IV APTS 628",
+        "Abbreviation": "NW628",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000629",
+        "Name": "NORTHWOOD IV APTS 629",
+        "Abbreviation": "NW629",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000630",
+        "Name": "NORTHWOOD IV APTS 630",
+        "Abbreviation": "NW630",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000631",
+        "Name": "NORTHWOOD IV APTS 631",
+        "Abbreviation": "NW631",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000632",
+        "Name": "NORTHWOOD IV APTS 632",
+        "Abbreviation": "NW632",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000633",
+        "Name": "NORTHWOOD IV APTS 633",
+        "Abbreviation": "NW633",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000634",
+        "Name": "NORTHWOOD IV APTS 634",
+        "Abbreviation": "NW634",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000635",
+        "Name": "NORTHWOOD IV APTS 635",
+        "Abbreviation": "NW635",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000636",
+        "Name": "NORTHWOOD IV APTS 636",
+        "Abbreviation": "NW636",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000637",
+        "Name": "NORTHWOOD IV APTS 637",
+        "Abbreviation": "NW637",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000638",
+        "Name": "NORTHWOOD IV APTS 638",
+        "Abbreviation": "NW638",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000639",
+        "Name": "NORTHWOOD IV APTS 639",
+        "Abbreviation": "NW639",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000640",
+        "Name": "NORTHWOOD IV APTS 640",
+        "Abbreviation": "NW640",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000641",
+        "Name": "NORTHWOOD IV APTS 641",
+        "Abbreviation": "NW641",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000642",
+        "Name": "NORTHWOOD IV APTS 642",
+        "Abbreviation": "NW642",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000643",
+        "Name": "NORTHWOOD IV APTS 643",
+        "Abbreviation": "NW643",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000644",
+        "Name": "NORTHWOOD IV APTS 644",
+        "Abbreviation": "NW644",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000645",
+        "Name": "NORTHWOOD IV APTS 645",
+        "Abbreviation": "NW645",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000646",
+        "Name": "NORTHWOOD IV APTS 646",
+        "Abbreviation": "NW646",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000647",
+        "Name": "NORTHWOOD IV APTS 647",
+        "Abbreviation": "NW647",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000648",
+        "Name": "NORTHWOOD IV APTS 648",
+        "Abbreviation": "NW648",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000649",
+        "Name": "NORTHWOOD IV APTS 649",
+        "Abbreviation": "NW649",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000650",
+        "Name": "NORTHWOOD IV APTS 650",
+        "Abbreviation": "NW650",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000651",
+        "Name": "NORTHWOOD IV APTS 651",
+        "Abbreviation": "NW651",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000652",
+        "Name": "NORTHWOOD IV APTS 652",
+        "Abbreviation": "NW652",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000653",
+        "Name": "NORTHWOOD IV APTS 653",
+        "Abbreviation": "NW653",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000654",
+        "Name": "NORTHWOOD IV APTS 654",
+        "Abbreviation": "NW654",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000655",
+        "Name": "NORTHWOOD IV APTS 655",
+        "Abbreviation": "NW655",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000656",
+        "Name": "NORTHWOOD IV APTS 656",
+        "Abbreviation": "NW656",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000657",
+        "Name": "NORTHWOOD IV APTS 657",
+        "Abbreviation": "NW657",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000658",
+        "Name": "NORTHWOOD IV APTS 658",
+        "Abbreviation": "NW658",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000659",
+        "Name": "NORTHWOOD IV APTS 659",
+        "Abbreviation": "NW659",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000660",
+        "Name": "NORTHWOOD IV APTS 660",
+        "Abbreviation": "NW660",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000661",
+        "Name": "NORTHWOOD IV APTS 661",
+        "Abbreviation": "NW661",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000662",
+        "Name": "NORTHWOOD IV APTS 662",
+        "Abbreviation": "NW662",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000663",
+        "Name": "NORTHWOOD IV APTS 663",
+        "Abbreviation": "NW663",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000664",
+        "Name": "NORTHWOOD IV APTS 664",
+        "Abbreviation": "NW664",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000665",
+        "Name": "NORTHWOOD IV APTS 665",
+        "Abbreviation": "NW665",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000666",
+        "Name": "NORTHWOOD IV APTS 666",
+        "Abbreviation": "NW666",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000667",
+        "Name": "NORTHWOOD IV APTS 667",
+        "Abbreviation": "NW667",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000668",
+        "Name": "NORTHWOOD IV APTS 668",
+        "Abbreviation": "NW668",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000669",
+        "Name": "NORTHWOOD IV APTS 669",
+        "Abbreviation": "NW669",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000670",
+        "Name": "NORTHWOOD IV APTS 670",
+        "Abbreviation": "NW670",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000671",
+        "Name": "NORTHWOOD IV APTS 671",
+        "Abbreviation": "NW671",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000672",
+        "Name": "NORTHWOOD IV APTS 672",
+        "Abbreviation": "NW672",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000673",
+        "Name": "NORTHWOOD IV APTS 673",
+        "Abbreviation": "NW673",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000674",
+        "Name": "NORTHWOOD IV APTS 674",
+        "Abbreviation": "NW674",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000675",
+        "Name": "NORTHWOOD IV APTS 675",
+        "Abbreviation": "NW675",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000676",
+        "Name": "NORTHWOOD IV APTS 676",
+        "Abbreviation": "NW676",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000677",
+        "Name": "NORTHWOOD IV APTS 677",
+        "Abbreviation": "NW677",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000678",
+        "Name": "NORTHWOOD IV APTS 678",
+        "Abbreviation": "NW678",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000679",
+        "Name": "NORTHWOOD IV APTS 679",
+        "Abbreviation": "NW679",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000680",
+        "Name": "NORTHWOOD IV APTS 680",
+        "Abbreviation": "NW680",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000681",
+        "Name": "NORTHWOOD IV APTS 681",
+        "Abbreviation": "NW681",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000682",
+        "Name": "NORTHWOOD IV APTS 682",
+        "Abbreviation": "NW682",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000683",
+        "Name": "NORTHWOOD IV APTS 683",
+        "Abbreviation": "NW683",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1000684",
+        "Name": "NORTHWOOD IV APTS 684",
+        "Abbreviation": "NW684",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1002500",
+        "Name": "MITCHELL FIELD BUILDING",
+        "Abbreviation": "MITCH",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1002501",
+        "Name": "AUXILIARY SERVICES BUILDING 1",
+        "Abbreviation": "AUXS1",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1002502",
+        "Name": "AUXILIARY SERVICES BUILDING 2",
+        "Abbreviation": "AUXS2",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1002505",
+        "Name": "ENGINEERING RESEARCH SUPPORT BLD",
+        "Abbreviation": "ERSB",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1002506",
+        "Name": "NORTH CAMPUS FACILITIES SERVICES BUILDING",
+        "Abbreviation": "NCFSB",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1002514",
+        "Name": "NORTH CAMPUS GROUND SVC FACILITY",
+        "Abbreviation": "NDGSF",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1002515",
+        "Name": "TELECOMMUNICATIONS BLDG I",
+        "Abbreviation": "TELE1",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1002517",
+        "Name": "NORTH CAMPUS MICROWAVE TOWER",
+        "Abbreviation": "NCTWR",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1002518",
+        "Name": "NC BEAL-CRAM SWITCH GEAR",
+        "Abbreviation": "NCBCS",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1002519",
+        "Name": "UM TRANS RES FLAMMABLE STOR BLDG",
+        "Abbreviation": "UMTFS",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1002701",
+        "Name": "NORTHWOOD V APTS 2701",
+        "Abbreviation": "N2701",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1002702",
+        "Name": "NORTHWOOD V APTS 2702",
+        "Abbreviation": "N2702",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1002703",
+        "Name": "NORTHWOOD V APTS 2703",
+        "Abbreviation": "N2703",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1002704",
+        "Name": "NORTHWOOD V APTS 2704",
+        "Abbreviation": "N2704",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1002705",
+        "Name": "NORTHWOOD V APTS 2705",
+        "Abbreviation": "N2705",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1002706",
+        "Name": "NORTHWOOD V APTS 2706",
+        "Abbreviation": "N2706",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1002707",
+        "Name": "NORTHWOOD V APTS 2707",
+        "Abbreviation": "N2707",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1002708",
+        "Name": "NORTHWOOD V APTS 2708",
+        "Abbreviation": "N2708",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1002709",
+        "Name": "NORTHWOOD V APTS 2709",
+        "Abbreviation": "N2709",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1002710",
+        "Name": "NORTHWOOD V APTS 2710",
+        "Abbreviation": "N2710",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1002711",
+        "Name": "NORTHWOOD V APTS 2711",
+        "Abbreviation": "N2711",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1002712",
+        "Name": "NORTHWOOD V APTS 2712",
+        "Abbreviation": "N2712",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1002713",
+        "Name": "NORTHWOOD V APTS 2713",
+        "Abbreviation": "N2713",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1002714",
+        "Name": "NORTHWOOD V APTS 2714",
+        "Abbreviation": "N2714",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1002715",
+        "Name": "NORTHWOOD V APTS 2715",
+        "Abbreviation": "N2715",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1002716",
+        "Name": "NORTHWOOD V APTS 2716",
+        "Abbreviation": "N2716",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1002717",
+        "Name": "NORTHWOOD V APTS 2717",
+        "Abbreviation": "N2717",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1002718",
+        "Name": "NORTHWOOD V APTS 2718",
+        "Abbreviation": "N2718",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1002719",
+        "Name": "NORTHWOOD V APTS 2719",
+        "Abbreviation": "N2719",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1002720",
+        "Name": "NORTHWOOD V APTS 2720",
+        "Abbreviation": "N2720",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1002721",
+        "Name": "NORTHWOOD V APTS 2721",
+        "Abbreviation": "N2721",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1002722",
+        "Name": "NORTHWOOD V APTS 2722",
+        "Abbreviation": "N2722",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1002723",
+        "Name": "NORTHWOOD V APTS 2723",
+        "Abbreviation": "N2723",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1002724",
+        "Name": "NORTHWOOD V APTS 2724",
+        "Abbreviation": "N2724",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1002725",
+        "Name": "NORTHWOOD V APTS 2725",
+        "Abbreviation": "N2725",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1002726",
+        "Name": "NORTHWOOD V APTS 2726",
+        "Abbreviation": "N2726",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1002727",
+        "Name": "NORTHWOOD V APTS 2727",
+        "Abbreviation": "N2727",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1002728",
+        "Name": "NORTHWOOD V APTS 2728",
+        "Abbreviation": "N2728",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1002729",
+        "Name": "NORTHWOOD V APTS 2729",
+        "Abbreviation": "N2729",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1002730",
+        "Name": "NORTHWOOD V APTS 2730",
+        "Abbreviation": "N2730",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1002731",
+        "Name": "NORTHWOOD V APTS 2731",
+        "Abbreviation": "N2731",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1002732",
+        "Name": "NORTHWOOD V APTS 2732",
+        "Abbreviation": "N2732",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1002733",
+        "Name": "NORTHWOOD V APTS 2733",
+        "Abbreviation": "N2733",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1002734",
+        "Name": "NORTHWOOD V APTS 2734",
+        "Abbreviation": "N2734",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1002735",
+        "Name": "NORTHWOOD V APTS 2735",
+        "Abbreviation": "N2735",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1002736",
+        "Name": "NORTHWOOD V APTS 2736",
+        "Abbreviation": "N2736",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1002737",
+        "Name": "NORTHWOOD V APTS 2737",
+        "Abbreviation": "N2737",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1002738",
+        "Name": "NORTHWOOD V APTS 2738",
+        "Abbreviation": "N2738",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1002739",
+        "Name": "NORTHWOOD V APTS 2739",
+        "Abbreviation": "N2739",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1002740",
+        "Name": "NORTHWOOD V APTS 2740",
+        "Abbreviation": "N2740",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1002741",
+        "Name": "NORTHWOOD V APTS 2741",
+        "Abbreviation": "N2741",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1002742",
+        "Name": "NORTHWOOD V APTS 2742",
+        "Abbreviation": "N2742",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1002743",
+        "Name": "NORTHWOOD V APTS 2743",
+        "Abbreviation": "N2743",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1002744",
+        "Name": "NORTHWOOD V APTS 2744",
+        "Abbreviation": "N2744",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1002745",
+        "Name": "NORTHWOOD V APTS 2745",
+        "Abbreviation": "N2745",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1002746",
+        "Name": "NORTHWOOD V APTS 2746",
+        "Abbreviation": "N2746",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1002747",
+        "Name": "NORTHWOOD V APTS 2747",
+        "Abbreviation": "N2747",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1002748",
+        "Name": "NORTHWOOD V APTS 2748",
+        "Abbreviation": "N2748",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1002749",
+        "Name": "NORTHWOOD V APTS 2749",
+        "Abbreviation": "N2749",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1002750",
+        "Name": "NORTHWOOD V APTS 2750",
+        "Abbreviation": "N2750",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1002751",
+        "Name": "NORTHWOOD V APTS 2751",
+        "Abbreviation": "N2751",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1002752",
+        "Name": "NORTHWOOD V APTS 2752",
+        "Abbreviation": "N2752",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1002753",
+        "Name": "NORTHWOOD V APTS 2753",
+        "Abbreviation": "N2753",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1002754",
+        "Name": "NORTHWOOD V APTS 2754",
+        "Abbreviation": "N2754",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1002755",
+        "Name": "NORTHWOOD V APTS 2755",
+        "Abbreviation": "N2755",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1002756",
+        "Name": "NORTHWOOD V APTS 2756",
+        "Abbreviation": "N2756",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1002757",
+        "Name": "NORTHWOOD V APTS 2757",
+        "Abbreviation": "N2757",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1002758",
+        "Name": "NORTHWOOD V APTS 2758",
+        "Abbreviation": "N2758",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1002759",
+        "Name": "NORTHWOOD V APTS 2759",
+        "Abbreviation": "N2759",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1002760",
+        "Name": "NORTHWOOD V APTS 2760",
+        "Abbreviation": "N2760",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1002761",
+        "Name": "NORTHWOOD V APTS 2761",
+        "Abbreviation": "N2761",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1002762",
+        "Name": "NORTHWOOD V APTS 2762",
+        "Abbreviation": "N2762",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1002763",
+        "Name": "NORTHWOOD V APTS 2763",
+        "Abbreviation": "N2763",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1002764",
+        "Name": "NORTHWOOD V APTS 2764",
+        "Abbreviation": "N2764",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1002765",
+        "Name": "NORTHWOOD V APTS 2765",
+        "Abbreviation": "N2765",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1002766",
+        "Name": "NORTHWOOD V APTS 2766",
+        "Abbreviation": "N2766",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1002767",
+        "Name": "NORTHWOOD V APTS 2767",
+        "Abbreviation": "N2767",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1002768",
+        "Name": "NORTHWOOD V APTS 2768",
+        "Abbreviation": "N2768",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1002769",
+        "Name": "NORTHWOOD V APTS 2769",
+        "Abbreviation": "N2769",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1002770",
+        "Name": "NORTHWOOD V APTS 2770",
+        "Abbreviation": "N2770",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1002771",
+        "Name": "NORTHWOOD V APTS 2771",
+        "Abbreviation": "N2771",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1002772",
+        "Name": "NORTHWOOD V APTS 2772",
+        "Abbreviation": "N2772",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1002773",
+        "Name": "NORTHWOOD V APTS 2773",
+        "Abbreviation": "N2773",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1002774",
+        "Name": "NORTHWOOD V APTS 2774",
+        "Abbreviation": "N2774",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1002775",
+        "Name": "NORTHWOOD V APTS 2775",
+        "Abbreviation": "N2775",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1002776",
+        "Name": "NORTHWOOD V APTS 2776",
+        "Abbreviation": "N2776",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1002777",
+        "Name": "NORTHWOOD V APTS 2777",
+        "Abbreviation": "N2777",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1002778",
+        "Name": "NORTHWOOD V APTS 2778",
+        "Abbreviation": "N2778",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1002779",
+        "Name": "NORTHWOOD V APTS 2779",
+        "Abbreviation": "N2779",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1005018",
+        "Name": "NORTH CAMPUS CHILDRENS CENTER",
+        "Abbreviation": "NCRCC",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1005059",
+        "Name": "WALGREEN CHARLES R JR DRAMA CENTER",
+        "Abbreviation": "WDC",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1005092",
+        "Name": "BEYSTER BOB AND BETTY BUILDING",
+        "Abbreviation": "BYSTR",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1005111",
+        "Name": "NC GROUNDS STORAGE BUILDING # 2",
+        "Abbreviation": "NCGS2",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1005116",
+        "Name": "NC GROUNDS STORAGE BUILDING # 3",
+        "Abbreviation": "NCGS3",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1005131",
+        "Name": "NC STORAGE BUILDING #4",
+        "Abbreviation": "NCST4",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1005139",
+        "Name": "NORTH CAMPUS CHILLER PLANT",
+        "Abbreviation": "NCCHL",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1005140",
+        "Name": "NORTH CAMPUS GROUND SVC FACILITY ANNEX",
+        "Abbreviation": "NCGSA",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1005168",
+        "Name": "AUTO LAB FUEL STORAGE BUILDING",
+        "Abbreviation": "ALFSB",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1005205",
+        "Name": "NC GROUNDS GARAGE 1",
+        "Abbreviation": "NCGG1",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1005224",
+        "Name": "STAMPS AUDITORIUM",
+        "Abbreviation": "STAMP",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1005253",
+        "Name": "NORTH CAMPUS RESEARCH COMPLEX BUILDING 10",
+        "Abbreviation": "NB010",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1005254",
+        "Name": "NORTH CAMPUS RESEARCH COMPLEX BUILDING 14",
+        "Abbreviation": "NB014",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1005255",
+        "Name": "NORTH CAMPUS RESEARCH COMPLEX BUILDING 15",
+        "Abbreviation": "NB015",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1005256",
+        "Name": "NORTH CAMPUS RESEARCH COMPLEX BUILDING 16",
+        "Abbreviation": "NB016",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1005258",
+        "Name": "NORTH CAMPUS RESEARCH COMPLEX BUILDING 18",
+        "Abbreviation": "NB018",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1005259",
+        "Name": "NORTH CAMPUS RESEARCH COMPLEX BUILDING 20",
+        "Abbreviation": "NB020",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1005260",
+        "Name": "NORTH CAMPUS RESEARCH COMPLEX BUILDING 22",
+        "Abbreviation": "NB022",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1005261",
+        "Name": "NORTH CAMPUS RESEARCH COMPLEX BUILDING 23",
+        "Abbreviation": "NB023",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1005262",
+        "Name": "NORTH CAMPUS RESEARCH COMPLEX BUILDING 25",
+        "Abbreviation": "NB025",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1005263",
+        "Name": "NORTH CAMPUS RESEARCH COMPLEX BUILDING 26",
+        "Abbreviation": "NB026",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1005264",
+        "Name": "NORTH CAMPUS RESEARCH COMPLEX BUILDING 28",
+        "Abbreviation": "NB028",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1005265",
+        "Name": "NORTH CAMPUS RESEARCH COMPLEX BUILDING 30",
+        "Abbreviation": "NB030",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1005266",
+        "Name": "NORTH CAMPUS RESEARCH COMPLEX BUILDING 35",
+        "Abbreviation": "NB035",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1005267",
+        "Name": "NORTH CAMPUS RESEARCH COMPLEX BUILDING 36",
+        "Abbreviation": "NB036",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1005268",
+        "Name": "NORTH CAMPUS RESEARCH COMPLEX BUILDING 40",
+        "Abbreviation": "NB040",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1005269",
+        "Name": "NORTH CAMPUS RESEARCH COMPLEX BUILDING 50",
+        "Abbreviation": "NB050",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1005270",
+        "Name": "NORTH CAMPUS RESEARCH COMPLEX BUILDING 60",
+        "Abbreviation": "NB060",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1005271",
+        "Name": "NORTH CAMPUS RESEARCH COMPLEX BUILDING 70",
+        "Abbreviation": "NB070",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1005272",
+        "Name": "NORTH CAMPUS RESEARCH COMPLEX BUILDING 73",
+        "Abbreviation": "NCRPK",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1005273",
+        "Name": "NORTH CAMPUS RESEARCH COMPLEX BUILDING 80",
+        "Abbreviation": "NB080",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1005274",
+        "Name": "NORTH CAMPUS RESEARCH COMPLEX BUILDING 85",
+        "Abbreviation": "NB085",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1005275",
+        "Name": "NORTH CAMPUS RESEARCH COMPLEX BUILDING 90",
+        "Abbreviation": "NB090",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1005276",
+        "Name": "NORTH CAMPUS RESEARCH COMPLEX BUILDING 100",
+        "Abbreviation": "NB100",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1005277",
+        "Name": "NORTH CAMPUS RESEARCH COMPLEX BUILDING 200",
+        "Abbreviation": "NB200",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1005278",
+        "Name": "NORTH CAMPUS RESEARCH COMPLEX BUILDING 300",
+        "Abbreviation": "NB300",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1005279",
+        "Name": "NORTH CAMPUS RESEARCH COMPLEX BUILDING 400",
+        "Abbreviation": "NB400",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1005280",
+        "Name": "NORTH CAMPUS RESEARCH COMPLEX BUILDING 500",
+        "Abbreviation": "NB500",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1005281",
+        "Name": "NORTH CAMPUS RESEARCH COMPLEX BUILDING 520",
+        "Abbreviation": "NB520",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1005282",
+        "Name": "NORTH CAMPUS RESEARCH COMPLEX BUILDING 550",
+        "Abbreviation": "NB550",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1005283",
+        "Name": "NORTH CAMPUS RESEARCH COMPLEX BUILDING 800",
+        "Abbreviation": "NB800",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1005290",
+        "Name": "BAXTER ROAD MONITORING SHED",
+        "Abbreviation": "BXTSH",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1005297",
+        "Name": "NORTH CAMPUS GROUNDS STORAGE SHED",
+        "Abbreviation": "NCGSS",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1005334",
+        "Name": "NORTH CAMPUS SUPPORT FACILITY",
+        "Abbreviation": "",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1005335",
+        "Name": "NORTH CAMPUS RESEARCH COMPLEX BUILDING 86",
+        "Abbreviation": "NBO86",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1005338",
+        "Name": "UM TRANSPORTATION RESEARCH TESTING BUILDING",
+        "Abbreviation": "TRTB",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1005348",
+        "Name": "MODULAR MRI BUILDING",
+        "Abbreviation": "MRI",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1005356",
+        "Name": "NORTH CAMPUS MICROWAVE SERVICE BUILDING",
+        "Abbreviation": "NCMSB",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1005380",
+        "Name": "MITCHELL FIELD RECREATION BUILDING",
+        "Abbreviation": "",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1005381",
+        "Name": "TEMPORARY MOBILITY TRANSFORMATION CENTER BUILDING",
+        "Abbreviation": "TMTCB",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1005418",
+        "Name": "ROBOTICS LABORATORY",
+        "Abbreviation": "RBTCL",
+        "Campus": "North Campus"
+      },
+      {
+        "ID": "1005419",
+        "Name": "M-AIR OUTDOOR TEST FACILITY",
+        "Abbreviation": "MAOTF",
+        "Campus": "North Campus"
+      }
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "Buildings": {
+    "Building": {
+      "ID": "1008067",
+      "Name": "WALLACE MIKE AND MARY HOUSE",
+      "Abbreviation": "WALHS",
+      "Campus": "Central Campus",
+      "StreetNumber": "620",
+      "StreetDirection": "",
+      "StreetName": "OXFORD RD",
+      "City": "ANN ARBOR",
+      "State": "MI",
+      "ZipCode": "48104-2694",
+      "Latitude": "42.2745933",
+      "Longitude": "-83.7264321",
+      "Phase": "SERV"
+    }
+  }
+}

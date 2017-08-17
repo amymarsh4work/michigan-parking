@@ -1,0 +1,150 @@
+{
+  "Buildings": {
+    "Building": [
+      {
+        "ID": "1001606",
+        "Name": "FLINT ROSS HOUSE",
+        "Abbreviation": "FROSS",
+        "Campus": "UM-Flint"
+      },
+      {
+        "ID": "1001630",
+        "Name": "FLINT WM R MURCHIE SCIENCE BLDG",
+        "Abbreviation": "FSCI",
+        "Campus": "UM-Flint"
+      },
+      {
+        "ID": "1001633",
+        "Name": "FLINT PLANT SERVICES BUILDING",
+        "Abbreviation": "FPLTS",
+        "Campus": "UM-Flint"
+      },
+      {
+        "ID": "1001649",
+        "Name": "FLINT THOMPSON FRANCES W LIBRARY",
+        "Abbreviation": "FLIB",
+        "Campus": "UM-Flint"
+      },
+      {
+        "ID": "1001650",
+        "Name": "FLINT DAVID M FRENCH HALL",
+        "Abbreviation": "FFRNC",
+        "Campus": "UM-Flint"
+      },
+      {
+        "ID": "1001651",
+        "Name": "FLINT HARRISON PARKING RAMP",
+        "Abbreviation": "FHAPK",
+        "Campus": "UM-Flint"
+      },
+      {
+        "ID": "1001652",
+        "Name": "FLINT MILL STREET PARKING STRUCTURE",
+        "Abbreviation": "FMILL",
+        "Campus": "UM-Flint"
+      },
+      {
+        "ID": "1001660",
+        "Name": "FLINT CENTRAL ENERGY PLANT",
+        "Abbreviation": "FENRG",
+        "Campus": "UM-Flint"
+      },
+      {
+        "ID": "1001662",
+        "Name": "FLINT UNIVERSITY PAVILION",
+        "Abbreviation": "FPAVL",
+        "Campus": "UM-Flint"
+      },
+      {
+        "ID": "1001663",
+        "Name": "FLINT WATER STREET PARKING STRUCTURE",
+        "Abbreviation": "FWATR",
+        "Campus": "UM-Flint"
+      },
+      {
+        "ID": "1001664",
+        "Name": "FLINT UNIV PAVILION ANNEX",
+        "Abbreviation": "FPANX",
+        "Campus": "UM-Flint"
+      },
+      {
+        "ID": "1001670",
+        "Name": "FLINT HARDING MOTT UNIV CENTER",
+        "Abbreviation": "FMOTC",
+        "Campus": "UM-Flint"
+      },
+      {
+        "ID": "1001671",
+        "Name": "FLINT RECREATION BUILDING",
+        "Abbreviation": "F REC",
+        "Campus": "UM-Flint"
+      },
+      {
+        "ID": "1001694",
+        "Name": "FLINT WILLIAM S WHITE BUILDING",
+        "Abbreviation": "FWHIT",
+        "Campus": "UM-Flint"
+      },
+      {
+        "ID": "1005017",
+        "Name": "FLINT NORTHBANK CENTER",
+        "Abbreviation": "FNBNK",
+        "Campus": "UM-Flint"
+      },
+      {
+        "ID": "1005043",
+        "Name": "FLINT NORTHBANK PARKING RAMP",
+        "Abbreviation": "FNBPK",
+        "Campus": "UM-Flint"
+      },
+      {
+        "ID": "1005219",
+        "Name": "FLINT STUDENT HOUSING FACILITY",
+        "Abbreviation": "FSHF",
+        "Campus": "UM-Flint"
+      },
+      {
+        "ID": "1005343",
+        "Name": "RIVERFRONT CENTER",
+        "Abbreviation": "RVRFT",
+        "Campus": "UM-Flint"
+      },
+      {
+        "ID": "1005350",
+        "Name": "MOTT CHARLES STEWART COMMUNITY COLLEGE",
+        "Abbreviation": "MOTTC",
+        "Campus": "UM-Flint"
+      },
+      {
+        "ID": "1005360",
+        "Name": "URBAN ALTERNATIVES HOUSE",
+        "Abbreviation": "URBAN",
+        "Campus": "UM-Flint"
+      },
+      {
+        "ID": "1005403",
+        "Name": "BEECHER NEFF CENTER",
+        "Abbreviation": "",
+        "Campus": "UM-Flint"
+      },
+      {
+        "ID": "1005404",
+        "Name": "4800 S SAGINAW",
+        "Abbreviation": "",
+        "Campus": "UM-Flint"
+      },
+      {
+        "ID": "1005410",
+        "Name": "LANSING COMMUNITY COLLEGE UNIVERSITY CENTER",
+        "Abbreviation": "LCCUC",
+        "Campus": "UM-Flint"
+      },
+      {
+        "ID": "1005412",
+        "Name": "UNIVERSITY TOWER",
+        "Abbreviation": "U TWR",
+        "Campus": "UM-Flint"
+      }
+    ]
+  }
+}

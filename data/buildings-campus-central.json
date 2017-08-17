@@ -1,0 +1,732 @@
+{
+  "Buildings": {
+    "Building": [
+      {
+        "ID": "1000040",
+        "Name": "OH MARY ALICE AND LILLIAN GODDARD HALL",
+        "Abbreviation": "OH GO",
+        "Campus": "Central Campus"
+      },
+      {
+        "ID": "1000041",
+        "Name": "OH ARTHUR AND HAZEL VANDENBERG HALL",
+        "Abbreviation": "OH VA",
+        "Campus": "Central Campus"
+      },
+      {
+        "ID": "1000042",
+        "Name": "OH ADELIA CHEEVER RESIDENCE",
+        "Abbreviation": "OH CH",
+        "Campus": "Central Campus"
+      },
+      {
+        "ID": "1000043",
+        "Name": "OH GEDDES RESIDENCE",
+        "Abbreviation": "OH GD",
+        "Campus": "Central Campus"
+      },
+      {
+        "ID": "1000044",
+        "Name": "OH JULIA ESTHER EMANUEL RESIDENCE",
+        "Abbreviation": "OH EM",
+        "Campus": "Central Campus"
+      },
+      {
+        "ID": "1000045",
+        "Name": "OH PAMELA NOBLE RESIDENCE",
+        "Abbreviation": "OH NO",
+        "Campus": "Central Campus"
+      },
+      {
+        "ID": "1000046",
+        "Name": "OH LAUREL HARPER SEELEY HALL",
+        "Abbreviation": "OH SL",
+        "Campus": "Central Campus"
+      },
+      {
+        "ID": "1000047",
+        "Name": "OH PLANT SERVICE",
+        "Abbreviation": "OH SR",
+        "Campus": "Central Campus"
+      },
+      {
+        "ID": "1000051",
+        "Name": "BARBOUR BETSY HOUSE",
+        "Abbreviation": "B BAR",
+        "Campus": "Central Campus"
+      },
+      {
+        "ID": "1000052",
+        "Name": "COOK MARTHA BUILDING",
+        "Abbreviation": "COOK",
+        "Campus": "Central Campus"
+      },
+      {
+        "ID": "1000053",
+        "Name": "COUZENS HALL",
+        "Abbreviation": "COUZN",
+        "Campus": "Central Campus"
+      },
+      {
+        "ID": "1000054",
+        "Name": "EAST QUADRANGLE",
+        "Abbreviation": "EQ",
+        "Campus": "Central Campus"
+      },
+      {
+        "ID": "1000055",
+        "Name": "FLETCHER HALL",
+        "Abbreviation": "FLETC",
+        "Campus": "Central Campus"
+      },
+      {
+        "ID": "1000057",
+        "Name": "HENDERSON MARY BARTRON HOUSE",
+        "Abbreviation": "HENDH",
+        "Campus": "Central Campus"
+      },
+      {
+        "ID": "1000059",
+        "Name": "LLOYD ALICE CROCKER HALL",
+        "Abbreviation": "ALH",
+        "Campus": "Central Campus"
+      },
+      {
+        "ID": "1000061",
+        "Name": "MOSHER ELIZA M HALL & JORDAN MYRA B HALL",
+        "Abbreviation": "MOJO",
+        "Campus": "Central Campus"
+      },
+      {
+        "ID": "1000062",
+        "Name": "NEWBERRY HELEN H RESIDENCE",
+        "Abbreviation": "NEWBY",
+        "Campus": "Central Campus"
+      },
+      {
+        "ID": "1000063",
+        "Name": "SOUTH QUADRANGLE",
+        "Abbreviation": "SQ",
+        "Campus": "Central Campus"
+      },
+      {
+        "ID": "1000064",
+        "Name": "STOCKWELL MADELON LOUISA HALL",
+        "Abbreviation": "STOCK",
+        "Campus": "Central Campus"
+      },
+      {
+        "ID": "1000066",
+        "Name": "WEST QUADRANGLE",
+        "Abbreviation": "WQ",
+        "Campus": "Central Campus"
+      },
+      {
+        "ID": "1000105",
+        "Name": "LIPSEY STANFORD STUDENT PUBLICATIONS BUILDING",
+        "Abbreviation": "LIPSE",
+        "Campus": "Central Campus"
+      },
+      {
+        "ID": "1000108",
+        "Name": "LAWYERS CLUB AND MUNGER CHARLES T RESIDENCES",
+        "Abbreviation": "LAW C",
+        "Campus": "Central Campus"
+      },
+      {
+        "ID": "1000109",
+        "Name": "COOK JOHN P BUILDING",
+        "Abbreviation": "C LAW",
+        "Campus": "Central Campus"
+      },
+      {
+        "ID": "1000120",
+        "Name": "MICHIGAN UNION",
+        "Abbreviation": "UNION",
+        "Campus": "Central Campus"
+      },
+      {
+        "ID": "1000135",
+        "Name": "WYLY SAM HALL",
+        "Abbreviation": "W-BUS",
+        "Campus": "Central Campus"
+      },
+      {
+        "ID": "1000137",
+        "Name": "KRESGE HALL",
+        "Abbreviation": "K-BUS",
+        "Campus": "Central Campus"
+      },
+      {
+        "ID": "1000139",
+        "Name": "BUSINESS ADMIN EXECUTIVE DORM",
+        "Abbreviation": "EXRES",
+        "Campus": "Central Campus"
+      },
+      {
+        "ID": "1000145",
+        "Name": "INSTITUTE FOR SOCIAL RESEARCH",
+        "Abbreviation": "ISR",
+        "Campus": "Central Campus"
+      },
+      {
+        "ID": "1000149",
+        "Name": "FLEMING ROBBEN W & ALDYTH ADMINISTRATION BUILDING",
+        "Abbreviation": "FLEMG",
+        "Campus": "Central Campus"
+      },
+      {
+        "ID": "1000150",
+        "Name": "LITERATURE SCIENCE AND THE ARTS",
+        "Abbreviation": "LSA",
+        "Campus": "Central Campus"
+      },
+      {
+        "ID": "1000151",
+        "Name": "ALUMNI MEMORIAL HALL",
+        "Abbreviation": "UMMA",
+        "Campus": "Central Campus"
+      },
+      {
+        "ID": "1000152",
+        "Name": "ANGELL JAMES B HALL AND TISCH HALL",
+        "Abbreviation": "AH",
+        "Campus": "Central Campus"
+      },
+      {
+        "ID": "1000154",
+        "Name": "LORCH HALL",
+        "Abbreviation": "LORCH",
+        "Campus": "Central Campus"
+      },
+      {
+        "ID": "1000155",
+        "Name": "BURTON MEMORIAL TOWER",
+        "Abbreviation": "BMT",
+        "Campus": "Central Campus"
+      },
+      {
+        "ID": "1000158",
+        "Name": "CHEMISTRY & DOW WILLARD H LABORATORY",
+        "Abbreviation": "CHEM",
+        "Campus": "Central Campus"
+      },
+      {
+        "ID": "1000159",
+        "Name": "CLEMENTS WILLIAM L LIBRARY",
+        "Abbreviation": "CLEMT",
+        "Campus": "Central Campus"
+      },
+      {
+        "ID": "1000162",
+        "Name": "DENTAL BLDG AND W K KELLOGG FOUNDATION INSTITUTE",
+        "Abbreviation": "DENT",
+        "Campus": "Central Campus"
+      },
+      {
+        "ID": "1000165",
+        "Name": "WEISER HALL",
+        "Abbreviation": "WEIS",
+        "Campus": "Central Campus"
+      },
+      {
+        "ID": "1000166",
+        "Name": "EAST HALL",
+        "Abbreviation": "EH",
+        "Campus": "Central Campus"
+      },
+      {
+        "ID": "1000167",
+        "Name": "WEST HALL",
+        "Abbreviation": "WH",
+        "Campus": "Central Campus"
+      },
+      {
+        "ID": "1000172",
+        "Name": "RACKHAM HORACE H SCHOOL OF GRADUATE STUDIES",
+        "Abbreviation": "RACK",
+        "Campus": "Central Campus"
+      },
+      {
+        "ID": "1000175",
+        "Name": "HAVEN HALL",
+        "Abbreviation": "HH",
+        "Campus": "Central Campus"
+      },
+      {
+        "ID": "1000176",
+        "Name": "HEALTH SERVICE",
+        "Abbreviation": "HLTSV",
+        "Campus": "Central Campus"
+      },
+      {
+        "ID": "1000177",
+        "Name": "HILL AUDITORIUM",
+        "Abbreviation": "HILL",
+        "Campus": "Central Campus"
+      },
+      {
+        "ID": "1000178",
+        "Name": "NEWBERRY HALL",
+        "Abbreviation": "KELMU",
+        "Campus": "Central Campus"
+      },
+      {
+        "ID": "1000179",
+        "Name": "HUTCHINS HALL",
+        "Abbreviation": "HUTCH",
+        "Campus": "Central Campus"
+      },
+      {
+        "ID": "1000180",
+        "Name": "POWER CENTER FOR PERFORMING ARTS",
+        "Abbreviation": "POWER",
+        "Campus": "Central Campus"
+      },
+      {
+        "ID": "1000181",
+        "Name": "HATCHER HARLAN H SOUTH GRADUATE LIBRARY",
+        "Abbreviation": "GLIBS",
+        "Campus": "Central Campus"
+      },
+      {
+        "ID": "1000183",
+        "Name": "LANE HALL",
+        "Abbreviation": "LANE",
+        "Campus": "Central Campus"
+      },
+      {
+        "ID": "1000184",
+        "Name": "COOK WILLIAM W LEGAL RESEARCH LIBRARY",
+        "Abbreviation": "LLIB",
+        "Campus": "Central Campus"
+      },
+      {
+        "ID": "1000185",
+        "Name": "HATCHER H NORTH GRADUATE LIBRARY",
+        "Abbreviation": "GLIBN",
+        "Campus": "Central Campus"
+      },
+      {
+        "ID": "1000186",
+        "Name": "POUND MADELON HOUSE",
+        "Abbreviation": "PND H",
+        "Campus": "Central Campus"
+      },
+      {
+        "ID": "1000187",
+        "Name": "POUND MADELON HOUSE GARAGE",
+        "Abbreviation": "PND G",
+        "Campus": "Central Campus"
+      },
+      {
+        "ID": "1000188",
+        "Name": "LITTLE CLARENCE COOK SCIENCE BLD",
+        "Abbreviation": "CCL",
+        "Campus": "Central Campus"
+      },
+      {
+        "ID": "1000189",
+        "Name": "DANA SAMUEL TRASK BUILDING",
+        "Abbreviation": "DANA",
+        "Campus": "Central Campus"
+      },
+      {
+        "ID": "1000191",
+        "Name": "MICHIGAN LEAGUE",
+        "Abbreviation": "LEAG",
+        "Campus": "Central Campus"
+      },
+      {
+        "ID": "1000192",
+        "Name": "ALUMNI CENTER",
+        "Abbreviation": "ALUMN",
+        "Campus": "Central Campus"
+      },
+      {
+        "ID": "1000193",
+        "Name": "RUTHVEN ALEXANDER G MUSEUMS BLDG",
+        "Abbreviation": "AGRMU",
+        "Campus": "Central Campus"
+      },
+      {
+        "ID": "1000197",
+        "Name": "MASON HALL",
+        "Abbreviation": "MH",
+        "Campus": "Central Campus"
+      },
+      {
+        "ID": "1000198",
+        "Name": "DETROIT OBSERVATORY",
+        "Abbreviation": "OBSRV",
+        "Campus": "Central Campus"
+      },
+      {
+        "ID": "1000203",
+        "Name": "PRESIDENTS RESIDENCE",
+        "Abbreviation": "PRESR",
+        "Campus": "Central Campus"
+      },
+      {
+        "ID": "1000205",
+        "Name": "1027 EAST HURON BUILDING",
+        "Abbreviation": "EHURN",
+        "Campus": "Central Campus"
+      },
+      {
+        "ID": "1000206",
+        "Name": "ANGELL HALL AUDITORIUMS",
+        "Abbreviation": "AHAUD",
+        "Campus": "Central Campus"
+      },
+      {
+        "ID": "1000207",
+        "Name": "MODERN LANGUAGES BUILDING",
+        "Abbreviation": "MLB",
+        "Campus": "Central Campus"
+      },
+      {
+        "ID": "1000208",
+        "Name": "RANDALL HARRISON M LABORATORY",
+        "Abbreviation": "RAND",
+        "Campus": "Central Campus"
+      },
+      {
+        "ID": "1000211",
+        "Name": "KRAUS EDWARD HENRY BUILDING",
+        "Abbreviation": "NS",
+        "Campus": "Central Campus"
+      },
+      {
+        "ID": "1000214",
+        "Name": "LSA ADMINISTRATION ANNEX",
+        "Abbreviation": "LSAAD",
+        "Campus": "Central Campus"
+      },
+      {
+        "ID": "1000215",
+        "Name": "STUDENT ACTIVITIES",
+        "Abbreviation": "SAB",
+        "Campus": "Central Campus"
+      },
+      {
+        "ID": "1000216",
+        "Name": "TAPPAN HALL",
+        "Abbreviation": "TAP",
+        "Campus": "Central Campus"
+      },
+      {
+        "ID": "1000219",
+        "Name": "SCHOOL OF SOCIAL WORK BUILDING",
+        "Abbreviation": "SSWB",
+        "Campus": "Central Campus"
+      },
+      {
+        "ID": "1000221",
+        "Name": "EDUCATION SCHOOL OF",
+        "Abbreviation": "SEB",
+        "Campus": "Central Campus"
+      },
+      {
+        "ID": "1000222",
+        "Name": "MICHIGAN NEWS BUILDING",
+        "Abbreviation": "NEWS",
+        "Campus": "Central Campus"
+      },
+      {
+        "ID": "1000225",
+        "Name": "DANCE BUILDING",
+        "Abbreviation": "DANCE",
+        "Campus": "Central Campus"
+      },
+      {
+        "ID": "1000226",
+        "Name": "CENTRAL CAMPUS REC BLD BELL MARGARET POOL",
+        "Abbreviation": "CCRB",
+        "Campus": "Central Campus"
+      },
+      {
+        "ID": "1000227",
+        "Name": "SHAPIRO HAROLD T AND VIVIAN B LIBRARY",
+        "Abbreviation": "ULIB",
+        "Campus": "Central Campus"
+      },
+      {
+        "ID": "1000230",
+        "Name": "COLLEGE OF PHARMACY BUILDING",
+        "Abbreviation": "PHARM",
+        "Campus": "Central Campus"
+      },
+      {
+        "ID": "1000252",
+        "Name": "FOREST SWITCHING STATION",
+        "Abbreviation": "FORST",
+        "Campus": "Central Campus"
+      },
+      {
+        "ID": "1000253",
+        "Name": "HILL ST PARKING STRUCTURE",
+        "Abbreviation": "HILPK",
+        "Campus": "Central Campus"
+      },
+      {
+        "ID": "1000254",
+        "Name": "FLETCHER ST PARKING STRUCTURE",
+        "Abbreviation": "FLETP",
+        "Campus": "Central Campus"
+      },
+      {
+        "ID": "1000255",
+        "Name": "THOMPSON ST PARKING STRUCTURE",
+        "Abbreviation": "THOMP",
+        "Campus": "Central Campus"
+      },
+      {
+        "ID": "1000257",
+        "Name": "CHURCH ST PARKING STRUCTURE",
+        "Abbreviation": "CH PK",
+        "Campus": "Central Campus"
+      },
+      {
+        "ID": "1000259",
+        "Name": "THAYER ST PARKING STRUCTURE",
+        "Abbreviation": "TH PK",
+        "Campus": "Central Campus"
+      },
+      {
+        "ID": "1000260",
+        "Name": "CENTRAL POWER PLANT",
+        "Abbreviation": "CPP",
+        "Campus": "Central Campus"
+      },
+      {
+        "ID": "1000261",
+        "Name": "PLANT SERVICE BUILDING",
+        "Abbreviation": "PLNT",
+        "Campus": "Central Campus"
+      },
+      {
+        "ID": "1000263",
+        "Name": "PALMER DRIVE PARKING STRUCTURE",
+        "Abbreviation": "PLMV",
+        "Campus": "Central Campus"
+      },
+      {
+        "ID": "1000710",
+        "Name": "COLISEUM",
+        "Abbreviation": "COLSM",
+        "Campus": "Central Campus"
+      },
+      {
+        "ID": "1000728",
+        "Name": "ELBEL FIELD LOCKER BUILDING",
+        "Abbreviation": "ELBEL",
+        "Campus": "Central Campus"
+      },
+      {
+        "ID": "1000799",
+        "Name": "BUHR BUILDING",
+        "Abbreviation": "BUHR",
+        "Campus": "Central Campus"
+      },
+      {
+        "ID": "1000829",
+        "Name": "1322 WILMOT",
+        "Abbreviation": "WLMT",
+        "Campus": "Central Campus"
+      },
+      {
+        "ID": "1000837",
+        "Name": "HURON BANK",
+        "Abbreviation": "HBANK",
+        "Campus": "Central Campus"
+      },
+      {
+        "ID": "1000854",
+        "Name": "CARVER BUILDING",
+        "Abbreviation": "CARVR",
+        "Campus": "Central Campus"
+      },
+      {
+        "ID": "1000858",
+        "Name": "MADISON BUILDING",
+        "Abbreviation": "MADSN",
+        "Campus": "Central Campus"
+      },
+      {
+        "ID": "1000880",
+        "Name": "BOYER BUILDING",
+        "Abbreviation": "BOYER",
+        "Campus": "Central Campus"
+      },
+      {
+        "ID": "1000886",
+        "Name": "TROTTER WILLIAM MONROE HOUSE OLD",
+        "Abbreviation": "TROTR",
+        "Campus": "Central Campus"
+      },
+      {
+        "ID": "1000887",
+        "Name": "LIBERTY CENTRE",
+        "Abbreviation": "LIBCT",
+        "Campus": "Central Campus"
+      },
+      {
+        "ID": "1000890",
+        "Name": "PERRY BUILDING",
+        "Abbreviation": "PERRY",
+        "Campus": "Central Campus"
+      },
+      {
+        "ID": "1000897",
+        "Name": "HEALTH MANAGEMENT RESEARCH",
+        "Abbreviation": "PPA",
+        "Campus": "Central Campus"
+      },
+      {
+        "ID": "1005036",
+        "Name": "LIFE SCIENCES INSTITUTE BUILDING",
+        "Abbreviation": "LSI",
+        "Campus": "Central Campus"
+      },
+      {
+        "ID": "1005042",
+        "Name": "CENTRAL CAMPUS REC BLD STORAGE FACILITY",
+        "Abbreviation": "CCRBS",
+        "Campus": "Central Campus"
+      },
+      {
+        "ID": "1005046",
+        "Name": "UNDERGRADUATE SCIENCE BUILDING",
+        "Abbreviation": "USB",
+        "Campus": "Central Campus"
+      },
+      {
+        "ID": "1005047",
+        "Name": "PALMER COMMONS",
+        "Abbreviation": "PALM",
+        "Campus": "Central Campus"
+      },
+      {
+        "ID": "1005049",
+        "Name": "FOREST AVE PARKING STRUCTURE",
+        "Abbreviation": "FORPK",
+        "Campus": "Central Campus"
+      },
+      {
+        "ID": "1005101",
+        "Name": "WEILL JOAN & SANFORD HALL",
+        "Abbreviation": "WEILL",
+        "Campus": "Central Campus"
+      },
+      {
+        "ID": "1005136",
+        "Name": "1327 GEDDES AVENUE",
+        "Abbreviation": "1327G",
+        "Campus": "Central Campus"
+      },
+      {
+        "ID": "1005169",
+        "Name": "BIOLOGICAL SCIENCE BUILDING",
+        "Abbreviation": "BSB",
+        "Campus": "Central Campus"
+      },
+      {
+        "ID": "1005177",
+        "Name": "NORTH QUADRANGLE RESIDENTIAL AND ACADEMIC COMPLEX",
+        "Abbreviation": "NQ",
+        "Campus": "Central Campus"
+      },
+      {
+        "ID": "1005179",
+        "Name": "202 SOUTH THAYER BUILDING",
+        "Abbreviation": "STB",
+        "Campus": "Central Campus"
+      },
+      {
+        "ID": "1005188",
+        "Name": "ROSS SCHOOL OF BUSINESS BUILDING",
+        "Abbreviation": "R-BUS",
+        "Campus": "Central Campus"
+      },
+      {
+        "ID": "1005235",
+        "Name": "SOUTH HALL",
+        "Abbreviation": "LSSH",
+        "Campus": "Central Campus"
+      },
+      {
+        "ID": "1005240",
+        "Name": "TOWSLEY CHILDRENS HOUSE",
+        "Abbreviation": "TWSCH",
+        "Campus": "Central Campus"
+      },
+      {
+        "ID": "1005287",
+        "Name": "523 SOUTH DIVISION BUILDING",
+        "Abbreviation": "523DI",
+        "Campus": "Central Campus"
+      },
+      {
+        "ID": "1005369",
+        "Name": "MUNGER GRADUATE RESIDENCES",
+        "Abbreviation": "MUNGR",
+        "Campus": "Central Campus"
+      },
+      {
+        "ID": "1005370",
+        "Name": "BLAU JEFF T HALL",
+        "Abbreviation": "BLAU",
+        "Campus": "Central Campus"
+      },
+      {
+        "ID": "1005378",
+        "Name": "TAPPAN STREET AUXILIARY BUILDING",
+        "Abbreviation": "TSAB",
+        "Campus": "Central Campus"
+      },
+      {
+        "ID": "1005379",
+        "Name": "CENTRAL CAMPUS SUPPORT FACILITY",
+        "Abbreviation": "CCSF",
+        "Campus": "Central Campus"
+      },
+      {
+        "ID": "1005413",
+        "Name": "TROTTER WILLIAM MONROE MULTICULTURAL CENTER NEW",
+        "Abbreviation": "TRTTR",
+        "Campus": "Central Campus"
+      },
+      {
+        "ID": "1005421",
+        "Name": "CAMPUS SWITCHING STATION",
+        "Abbreviation": "CSS",
+        "Campus": "Central Campus"
+      },
+      {
+        "ID": "1008054",
+        "Name": "HAMILTON SQUARE",
+        "Abbreviation": "HANSQ",
+        "Campus": "Central Campus"
+      },
+      {
+        "ID": "1008067",
+        "Name": "WALLACE MIKE AND MARY HOUSE",
+        "Abbreviation": "WALHS",
+        "Campus": "Central Campus"
+      },
+      {
+        "ID": "1008101",
+        "Name": "HANDICRAFT BUILDING",
+        "Abbreviation": "HANDI",
+        "Campus": "Central Campus"
+      },
+      {
+        "ID": "1008106",
+        "Name": "717 E HURON",
+        "Abbreviation": "717HU",
+        "Campus": "Central Campus"
+      }
+    ]
+  }
+}
