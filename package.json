@@ -41,7 +41,7 @@
     "cordova-plugin-splashscreen": "~4.0.1",
     "cordova-plugin-statusbar": "2.2.1",
     "cordova-plugin-whitelist": "1.3.1",
-    "ionic-angular": "3.1.1",
+    "ionic-angular": "^3.6.0",
     "ionic-plugin-deeplinks": "~1.0.15",
     "ionic-plugin-keyboard": "~2.2.0",
     "ionicons": "3.0.0",
@@ -50,28 +50,12 @@
     "zone.js": "^0.8.5"
   },
   "devDependencies": {
-    "@ionic/app-scripts": "1.3.7",
+    "@ionic/app-scripts": "^2.1.3",
     "@ionic/cli-plugin-cordova": "1.6.2",
     "@ionic/cli-plugin-ionic-angular": "1.4.1",
     "ionic": "3.7.0",
     "typescript": "~2.2.1"
   },
-  "cordovaPlugins": [
-    "cordova-plugin-whitelist",
-    "cordova-plugin-console",
-    "cordova-plugin-statusbar",
-    "cordova-plugin-device",
-    "cordova-plugin-splashscreen",
-    "ionic-plugin-keyboard"
-  ],
-  "cordovaPlatforms": [
-    "ios",
-    {
-      "platform": "ios",
-      "version": "",
-      "locator": "ios"
-    }
-  ],
   "description": "michigan-parking: An Ionic project",
   "cordova": {
     "plugins": {
