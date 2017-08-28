@@ -7,14 +7,13 @@ import "rxjs/add/operator/filter";
 @Injectable()
 export class Locations {
 
-    data: any;
-    location: any;
+    public data: any;
+    public location: any;
 
     constructor(public http: Http) {
-
     }
 
-    getAllLots() {
+    public getAllLots() {
         if (this.data) {
             return Promise.resolve(this.data);
         }
@@ -23,7 +22,7 @@ export class Locations {
         }
     }
 
-    getLotsForCampus(campus: string): Promise<any> {
+    public getLotsForCampus(campus: string): Promise<any> {
         return new Promise((resolve) => {
             let res = this.data;
             let lots = res.filter((res) => res.campus === campus);
@@ -31,7 +30,7 @@ export class Locations {
         });
     }
 
-    getLotDetail(name: string): Promise<any> {
+    public getLotDetail(name: string): Promise<any> {
 
         return new Promise((resolve) => {
             let res = this.data;
@@ -41,7 +40,7 @@ export class Locations {
         });
     }
 
-    load() {
+    public load() {
 
         if (this.data) {
             return Promise.resolve(this.data);
@@ -66,7 +65,7 @@ export class Locations {
         });
     }
 
-    applyHaversine(locations, position) {
+    private applyHaversine(locations, position) {
 
         locations.map((location) => {
 
@@ -90,7 +89,7 @@ export class Locations {
         return locations;
     }
 
-    getDistanceBetweenPoints(start, end, units) {
+    private getDistanceBetweenPoints(start, end, units) {
 
         let earthRadius = {
             miles: 3958.8,
@@ -115,7 +114,7 @@ export class Locations {
         return d;
     }
 
-    toRad(x) {
+    private toRad(x) {
         return x * Math.PI / 180;
     }
 

@@ -1,7 +1,7 @@
 import { Component, ElementRef, ViewChild } from '@angular/core';
 import { IonicPage, NavController, Platform } from 'ionic-angular';
 import { Locations } from '../../providers/locations';
-import { GoogleMaps } from '../../providers/google-maps';
+import { GoogleMapsForJS } from '../../providers/google-maps';
 import { Parking } from '../../providers/parking.model';
 
 @IonicPage()
@@ -16,8 +16,8 @@ export class MapPage {
   @ViewChild('map') mapElement: ElementRef;
   @ViewChild('pleaseConnect') pleaseConnect: ElementRef;
 
-  constructor(public navCtrl: NavController, public mapService: GoogleMaps, public platform: Platform, public locations: Locations) {
-
+  constructor(public navCtrl: NavController, public mapService: GoogleMapsForJS, public platform: Platform, public locations: Locations) {
+    console.log('Hello Map Page Provider!!!!!!!!!!!!!!!!!!!!!!!');
   }
 
   ionViewDidLoad(){

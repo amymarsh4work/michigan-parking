@@ -9,8 +9,11 @@ import {StatusBar} from "@ionic-native/status-bar";
 import {MyApp} from "./app.component";
 import {ParkingService} from "../providers/parking.service";
 import {Locations} from "../providers/locations";
-import {GoogleMaps} from "../providers/google-maps";
 import {Connectivity} from "../providers/connectivity";
+import {GoogleMapsForJS} from "../providers/google-maps";
+import {GoogleMaps} from "@ionic-native/google-maps";
+import {GoogleMapsPluginProvider } from '../providers/google-maps-plugin/google-maps-plugin';
+//import { GoogleMapsNativeProvider } from '../providers/google-maps-native/google-maps-native';
 
 
 const cloudSettings: CloudSettings = {
@@ -38,7 +41,8 @@ const cloudSettings: CloudSettings = {
         StatusBar,
         SplashScreen,
         {provide: ErrorHandler, useClass: IonicErrorHandler},
-        ParkingService, Locations, GoogleMaps, Connectivity
+        ParkingService, Locations, GoogleMapsForJS, Connectivity,
+        GoogleMaps, GoogleMapsPluginProvider
     ]
 })
 export class AppModule {

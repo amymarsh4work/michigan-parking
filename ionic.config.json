@@ -1,5 +1,8 @@
 {
   "name": "michigan-parking",
   "app_id": "48661a59",
-  "type": "ionic-angular"
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
 }

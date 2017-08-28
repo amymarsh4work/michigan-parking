@@ -1,6 +1,6 @@
 import {Component, ViewChild, ElementRef} from "@angular/core";
 import {IonicPage, ModalController, NavController, NavParams, Platform} from "ionic-angular";
-import {GoogleMaps} from "../../providers/google-maps";
+import {GoogleMapsForJS} from "../../providers/google-maps";
 import {Locations} from "../../providers/locations";
 
 @IonicPage()
@@ -22,7 +22,7 @@ export class CampusPage {
     constructor(public navCtrl: NavController,
                 public navParams: NavParams,
                 public platform: Platform,
-                public mapService: GoogleMaps,
+                public mapService: GoogleMapsForJS,
                 public locations: Locations,
                 public modalCtrl: ModalController) {
 
