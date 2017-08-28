@@ -3,7 +3,7 @@ import { IonicPage, NavController, Platform, NavParams, ActionSheetController } 
 import { ParkingService } from '../../providers/parking.service';
 import { Parking } from '../../providers/parking.model';
 
-import { GoogleMaps } from '../../providers/google-maps';
+import { GoogleMapsForJS } from '../../providers/google-maps';
 import { Locations } from '../../providers/locations';
 
 @IonicPage()
@@ -28,7 +28,7 @@ export class ParkingDetails {
               public navParams: NavParams,
               public actionSheetCtrl: ActionSheetController,
               public parkingService: ParkingService,
-              public mapService: GoogleMaps,
+              public mapService: GoogleMapsForJS,
               public locations: Locations) {
 
     this.lot = navParams.get('lot');

@@ -1,8 +1,8 @@
 <ion-header>
-  <ion-navbar>
-      <ion-title>Nearby</ion-title>
-  </ion-navbar>
-  <ion-toolbar>
+    <ion-navbar>
+        <ion-title>Nearby</ion-title>
+    </ion-navbar>
+    <ion-toolbar>
         <ion-segment [(ngModel)]="findBySegment">
             <ion-segment-button value="list" (ionSelect)="selectedMap(false)">
                 List
@@ -11,43 +11,28 @@
                 Map
             </ion-segment-button>
         </ion-segment>
-  </ion-toolbar>
+    </ion-toolbar>
 </ion-header>
-
 
 <ion-content>
 
-  <div #pleaseConnect id="please-connect">
-      <p>Please connect to the Internet...</p>
-  </div>
-
-
-<ion-item-group [style.display]="mapOn ? 'none' : 'block'">
-<ion-list>
-        <!--<ion-item *ngFor="let lot of parking | slice:0:3" (click)="openDetails(lot.name)">
-            <button item-left ion-button color="primary">&nbsp;&nbsp;&nbsp;</button>
-            <h2>{{lot.name}}</h2>
-            <i class="icon ion-chevron-right"></i>
-        </ion-item>-->
-
-            <button ion-item *ngFor="let lot of parking | slice:0:4" (click)="openDetails(lot.lot)">
+    <ion-item-group [style.display]="mapOn ? 'none' : 'block'">
+        <ion-list>
+            <!--<button ion-item *ngFor="let lot of parking | slice:0:4" (click)="openDetails(lot.lot)">
                 <ion-icon name="car" item-left color="{{lot.type}}"></ion-icon>
-                <!--ion-avatar item-left>
-                    <ion-icon name="pin" color="{{lot.type}}"></ion-icon>
-                </ion-avatar>-->
+                <h2>{{lot.lot}}</h2>
+                <p>{{lot.distance}} miles</p>
+            </button>-->
+            <button ion-item *ngFor="let lot of parking" (click)="openDetails(lot.lot)">
+                <ion-icon name="car" item-left color="{{lot.type}}"></ion-icon>
                 <h2>{{lot.lot}}</h2>
                 <p>{{lot.distance}} miles</p>
             </button>
-          </ion-list>
+        </ion-list>
+    </ion-item-group>
 
-<!--<ion-list>
-        <button ion-item (click)="openBrowse()">Browse all U-M Parking Lots</button>
-</ion-list>-->
+    <div #map id="map" [style.display]="mapOn ? 'block' : 'none'"></div>
 
-
-
-</ion-item-group>
-
-<div #map id="map" [style.display]="mapOn ? 'block' : 'none'"></div>
+    <!--<div #map id="map"></div>-->
 
 </ion-content>
